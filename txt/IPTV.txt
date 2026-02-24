@@ -2411,208 +2411,208 @@ Smart知識台,https://tv.iill.top/litv/litv-longturn19
 台灣戲劇台,https://tv.iill.top/litv/litv-longturn22
 寰宇財經台,https://tv.iill.top/litv/litv-longturn23
 YouTube「台湾新聞」,#genre#
-公視新聞,https://live.lalifeier.eu.org/youtube/quwqlazU-c8.m3u8?t=1771972808&key=be9b0bf58cb1d5f6696974e00c96fc25
-鏡新聞,https://live.lalifeier.eu.org/youtube/5n0y6b0Q25o.m3u8?t=1771972808&key=ed78e08311ec99b17657aeaaab1a64b1
-華視新聞,https://live.lalifeier.eu.org/youtube/wM0g8EoUZ_E.m3u8?t=1771972808&key=84b806cfae20a6eefcd4dbf52bc241a4
-中視新聞,https://live.lalifeier.eu.org/youtube/TCnaIE_SAtM.m3u8?t=1771972808&key=d852a27118d55b6b3f3d815982fa29ee
-中天新聞,https://live.lalifeier.eu.org/youtube/oIgbl7t0S_w.m3u8?t=1771972808&key=ecc6286ab9395e82635a04bde2866369
-中天新聞2台,https://live.lalifeier.eu.org/youtube/WPfPjbOLNfE.m3u8?t=1771972808&key=e8e314f7207d23b4ba1ff3b6021973d3
-民視新聞,https://live.lalifeier.eu.org/youtube/ylYJSBUgaMA.m3u8?t=1771972808&key=05f8d82c71a3c2e52e55587b1af8a221
-三立新聞,https://live.lalifeier.eu.org/youtube/oZdzzvxTfUY.m3u8?t=1771972808&key=99a9931b25647f992d7ae86e37d54e29
-三立新聞2台,https://live.lalifeier.eu.org/youtube/CKjSm5ZeehE.m3u8?t=1771972808&key=7e6d4f5330ecf1154a26baabfee473b1
-三立12小時新聞,https://live.lalifeier.eu.org/youtube/MzyekdjkblA.m3u8?t=1771972808&key=3d7e2bd8f115cb53a4cefd9bc101be90
-東森新聞,https://live.lalifeier.eu.org/youtube/LuQ4S-i5zoE.m3u8?t=1771972808&key=4d35759a2cfe5a02fa90e41f7f049475
-TVBS 55,https://live.lalifeier.eu.org/youtube/m_dhMSvUCIc.m3u8?t=1771972808&key=4a3b60526a1215ea99ac36fd7779e89b
-寰宇新聞,https://live.lalifeier.eu.org/youtube/6IquAgfvYmc.m3u8?t=1771972808&key=eea8b17a0d42bc27816296610d2f2b49
-寰宇新聞台灣台,https://live.lalifeier.eu.org/youtube/w87VGpgd90U.m3u8?t=1771972808&key=f42ae4cb93555fcbc1d609f84125b523
-台視新聞,https://live.lalifeier.eu.org/youtube/xL0ch83RAK8.m3u8?t=1771972808&key=b0e23690d3dfc993f4715306395b06e0
+公視新聞,https://live.lalifeier.eu.org/youtube/quwqlazU-c8.m3u8?t=1771976331&key=e07be57b4486c2c47b5800536907a23b
+鏡新聞,https://live.lalifeier.eu.org/youtube/5n0y6b0Q25o.m3u8?t=1771976331&key=3af422bda344255704c02405fcbc7db0
+華視新聞,https://live.lalifeier.eu.org/youtube/wM0g8EoUZ_E.m3u8?t=1771976331&key=73686bdf14e6acc18d50a246b06d2180
+中視新聞,https://live.lalifeier.eu.org/youtube/TCnaIE_SAtM.m3u8?t=1771976331&key=e156fa1d9c24a361c560d3912ebe46bc
+中天新聞,https://live.lalifeier.eu.org/youtube/oIgbl7t0S_w.m3u8?t=1771976331&key=655b6367d8341129b1d104f7c189a0f6
+中天新聞2台,https://live.lalifeier.eu.org/youtube/WPfPjbOLNfE.m3u8?t=1771976331&key=41f0c1f3d60cc41af8b6b86f071479ec
+民視新聞,https://live.lalifeier.eu.org/youtube/ylYJSBUgaMA.m3u8?t=1771976331&key=ffc6f3f0b7bee52dd503dc55bd4ebac8
+三立新聞,https://live.lalifeier.eu.org/youtube/oZdzzvxTfUY.m3u8?t=1771976331&key=2e6a2776f1be7af2da8ad897f85eeeb6
+三立新聞2台,https://live.lalifeier.eu.org/youtube/CKjSm5ZeehE.m3u8?t=1771976331&key=d1b759a275b354aed452873ae71dffc3
+三立12小時新聞,https://live.lalifeier.eu.org/youtube/MzyekdjkblA.m3u8?t=1771976331&key=814ce815aba9507b288fb96dba0a9c16
+東森新聞,https://live.lalifeier.eu.org/youtube/LuQ4S-i5zoE.m3u8?t=1771976331&key=bae5eb900e7f946ca51c36538eb5f02d
+TVBS 55,https://live.lalifeier.eu.org/youtube/m_dhMSvUCIc.m3u8?t=1771976331&key=2e220ad8c2b72e29edfc43691bdf1186
+寰宇新聞,https://live.lalifeier.eu.org/youtube/6IquAgfvYmc.m3u8?t=1771976331&key=17e9329ef3c03d3e9b458a23c57d687f
+寰宇新聞台灣台,https://live.lalifeier.eu.org/youtube/w87VGpgd90U.m3u8?t=1771976331&key=e4622097d8b3e452d6bec17db4a988b2
+台視新聞,https://live.lalifeier.eu.org/youtube/xL0ch83RAK8.m3u8?t=1771976331&key=41f1fbcda9a75226daf1dd777b82062e
 YouTube「国际新聞」,#genre#
-公視 TaiwanPlus,https://live.lalifeier.eu.org/youtube/Smy2zVGK9x0.m3u8?t=1771972808&key=19c7e55967cdfbd05d5f275a9c3a0ba6
-NBC News,https://live.lalifeier.eu.org/youtube/svjXGa-_NBM.m3u8?t=1771972808&key=b7b798b218ca00d902ee79d9881976d3
-Bloomberg,https://live.lalifeier.eu.org/youtube/iyOq8DhaMYw.m3u8?t=1771972808&key=9c6148145d3cd1b3fccb66944346de97
-Fox News,https://live.lalifeier.eu.org/youtube/YDfiTGGPYCk.m3u8?t=1771972808&key=efd032c5136cbc81da48c94094eebef7
-Sky News,https://live.lalifeier.eu.org/youtube/w9uJg68CV4g.m3u8?t=1771972808&key=142189024a15b9b314fe4e0d4b41d63d
-euronews,https://live.lalifeier.eu.org/youtube/pykpO5kQJ98.m3u8?t=1771972808&key=7ea1cfdcf86c8d68e3a1d1e14bdccb8e
-DW News 德國之聲,https://live.lalifeier.eu.org/youtube/6HodCcEW_oQ.m3u8?t=1771972808&key=4630387d0b51e656df0dc2b2b86cb75b
-France 24,https://live.lalifeier.eu.org/youtube/tkDUSYHoKxE.m3u8?t=1771972808&key=47b30bb0569265fa55b37517c526cccc
-ABC News,https://live.lalifeier.eu.org/youtube/gN0PZCe-kwQ.m3u8?t=1771972808&key=919b1fa0f720ca658f0153f6e3884978
-CNBC,https://live.lalifeier.eu.org/youtube/e3BCOSBPLTM.m3u8?t=1771972808&key=36106bef8c3acc1c7a2b37a785b26598
-ABC7,https://live.lalifeier.eu.org/youtube/d5YNEoTqMZ4.m3u8?t=1771972808&key=5dbfddd1232eded8ea5d3ca2dea9a46b
-NHK WORLD JAPAN,https://live.lalifeier.eu.org/youtube/f0lYkdA-Gtw.m3u8?t=1771972808&key=7e88f1a9590caf36deb0752353125d2f
-全日本新聞網 ANN,https://live.lalifeier.eu.org/youtube/coYw-eVU0Ks.m3u8?t=1771972808&key=195c8752778da41c3e41562899f32477
-朝日電視網,https://live.lalifeier.eu.org/youtube/sTAqx_1Yrww.m3u8?t=1771972808&key=a517bb99ead33d7bf747dd1e150bf2a5
-日本新聞網 TBS,https://live.lalifeier.eu.org/youtube/ohI356mwBp8.m3u8?t=1771972808&key=39fc832b85f10af4f2a9aa3883e78613
-半島電視台,https://live.lalifeier.eu.org/youtube/gCNeDWCI0vo.m3u8?t=1771972808&key=1015774ac6dc40c7ac2842ca97184bd0
-新加坡 CNA,https://live.lalifeier.eu.org/youtube/XWq5kBlakcQ.m3u8?t=1771972808&key=b83f4ac230e8b040b236ad7b58825b38
-阿里郞電視台,https://live.lalifeier.eu.org/youtube/CJVBX7KI5nU.m3u8?t=1771972808&key=f73682d819f7a44b828ea37b0336b089
-韓國 YTN,https://live.lalifeier.eu.org/youtube/FJfwehhzIhw.m3u8?t=1771972808&key=1c9818d728c85c3f07743a9c213c127c
-韓國 KBS,https://live.lalifeier.eu.org/youtube/c7UvgHP90F8.m3u8?t=1771972808&key=8e88ac7b5bf291b2770755f9daba93c8
+公視 TaiwanPlus,https://live.lalifeier.eu.org/youtube/Smy2zVGK9x0.m3u8?t=1771976331&key=8d3d87c88bcee942d30a391ffb003557
+NBC News,https://live.lalifeier.eu.org/youtube/svjXGa-_NBM.m3u8?t=1771976331&key=8143559b769a0c03da84a134c55048a0
+Bloomberg,https://live.lalifeier.eu.org/youtube/iyOq8DhaMYw.m3u8?t=1771976331&key=ada31c938bc77c6cdd51c6edeb0420aa
+Fox News,https://live.lalifeier.eu.org/youtube/YDfiTGGPYCk.m3u8?t=1771976331&key=28078308a271c15b95a9ce743adca718
+Sky News,https://live.lalifeier.eu.org/youtube/w9uJg68CV4g.m3u8?t=1771976331&key=260f24ab3e14b48daada24505a5f15cc
+euronews,https://live.lalifeier.eu.org/youtube/pykpO5kQJ98.m3u8?t=1771976331&key=d544192692d58496a8e00545554dec28
+DW News 德國之聲,https://live.lalifeier.eu.org/youtube/6HodCcEW_oQ.m3u8?t=1771976331&key=247301e1705c529c00eb0bf11e950974
+France 24,https://live.lalifeier.eu.org/youtube/tkDUSYHoKxE.m3u8?t=1771976331&key=949e7a8da8788bf42d94a103f00ebb95
+ABC News,https://live.lalifeier.eu.org/youtube/gN0PZCe-kwQ.m3u8?t=1771976331&key=67923ab4f8daf71477310f1a3784acb0
+CNBC,https://live.lalifeier.eu.org/youtube/e3BCOSBPLTM.m3u8?t=1771976331&key=780af9149a70519b65ee458ac398ac0d
+ABC7,https://live.lalifeier.eu.org/youtube/d5YNEoTqMZ4.m3u8?t=1771976331&key=7966143c62677c9a28df12e88b13e379
+NHK WORLD JAPAN,https://live.lalifeier.eu.org/youtube/f0lYkdA-Gtw.m3u8?t=1771976331&key=b864b61069786b9824cb4db66d09121c
+全日本新聞網 ANN,https://live.lalifeier.eu.org/youtube/coYw-eVU0Ks.m3u8?t=1771976331&key=dd4ebc5dc83e6ef285a0c7287f496fdf
+朝日電視網,https://live.lalifeier.eu.org/youtube/sTAqx_1Yrww.m3u8?t=1771976331&key=21ab6d53a687914842bbd81d45ff9d17
+日本新聞網 TBS,https://live.lalifeier.eu.org/youtube/ohI356mwBp8.m3u8?t=1771976331&key=de08fda1db631aec609ea07451e2bedc
+半島電視台,https://live.lalifeier.eu.org/youtube/gCNeDWCI0vo.m3u8?t=1771976331&key=651be7896deb6f1b8e302c3f4ce2a942
+新加坡 CNA,https://live.lalifeier.eu.org/youtube/XWq5kBlakcQ.m3u8?t=1771976331&key=c5603d305e04051041198f5f38652ad5
+阿里郞電視台,https://live.lalifeier.eu.org/youtube/CJVBX7KI5nU.m3u8?t=1771976331&key=063fe55fdaed04e6eea118de35e17737
+韓國 YTN,https://live.lalifeier.eu.org/youtube/FJfwehhzIhw.m3u8?t=1771976331&key=60b26bf8fe0c49815b91a0c69125ae96
+韓國 KBS,https://live.lalifeier.eu.org/youtube/c7UvgHP90F8.m3u8?t=1771976331&key=e97ef0c1f5ac749fb37a8f77dde84cac
 YouTube「台灣財經」,#genre#
-東森財經新聞,https://live.lalifeier.eu.org/youtube/WHEPzbFA3hw.m3u8?t=1771972808&key=162e0f332adaaef3de71dca241bc1e93
-東森財經股市,https://live.lalifeier.eu.org/youtube/LbS-xQ67fos.m3u8?t=1771972808&key=d5b1416051d4a2939da5ec39620f8bba
-三立 iNEWS,https://live.lalifeier.eu.org/youtube/CKjSm5ZeehE.m3u8?t=1771972808&key=7e6d4f5330ecf1154a26baabfee473b1
-寰宇財經台,https://live.lalifeier.eu.org/youtube/25SE1bbTv9.m3u8?t=1771972808&key=78c769faa832c34d976456546a5c301c
-非凡商業台,https://live.lalifeier.eu.org/youtube/JTAwlv6pzcQ.m3u8?t=1771972808&key=af68d266c2a2c2d07e2f74d3090cc98c
-全球財經台,https://live.lalifeier.eu.org/youtube/LUzqZHSIqWc.m3u8?t=1771972808&key=e873f129a9e1bd4ea5f9cfb614fdcc4c
-運通財經台,https://live.lalifeier.eu.org/youtube/7_DEvPyHImI.m3u8?t=1771972808&key=3383e4be2a7ef01e9392580506f4a473
-中廣新聞網,https://live.lalifeier.eu.org/youtube/DXCypeML3bQ.m3u8?t=1771972808&key=f3f53c5b4d1071b412c75e3438b6eb67
+東森財經新聞,https://live.lalifeier.eu.org/youtube/WHEPzbFA3hw.m3u8?t=1771976331&key=98ae01d163ebfffae36be449ea7910cd
+東森財經股市,https://live.lalifeier.eu.org/youtube/LbS-xQ67fos.m3u8?t=1771976331&key=9de2f2a039f02834125f7e78904e6368
+三立 iNEWS,https://live.lalifeier.eu.org/youtube/CKjSm5ZeehE.m3u8?t=1771976331&key=d1b759a275b354aed452873ae71dffc3
+寰宇財經台,https://live.lalifeier.eu.org/youtube/25SE1bbTv9.m3u8?t=1771976331&key=27076b34dc9d6074467a0af354a5b509
+非凡商業台,https://live.lalifeier.eu.org/youtube/JTAwlv6pzcQ.m3u8?t=1771976331&key=1f1405c2cdf800f5e04d13c7ea15e2f9
+全球財經台,https://live.lalifeier.eu.org/youtube/LUzqZHSIqWc.m3u8?t=1771976331&key=256695c620367ef329fe893f85109f26
+運通財經台,https://live.lalifeier.eu.org/youtube/7_DEvPyHImI.m3u8?t=1771976331&key=00cd942be8ffd74139316c4be9a50a9d
+中廣新聞網,https://live.lalifeier.eu.org/youtube/DXCypeML3bQ.m3u8?t=1771976331&key=842b236bf3f98654a632491e2b60bc36
 YouTube「台湾國會」,#genre#
-國會頻道1,https://live.lalifeier.eu.org/youtube/4HysYHJ6GkY.m3u8?t=1771972808&key=7124022de5b9fa5dea6a258e213330b2
-國會頻道2,https://live.lalifeier.eu.org/youtube/Lj8OWF6nzcg.m3u8?t=1771972808&key=5b43846c6baea953d1c9ddaa1295cf13
-立法院會議,https://live.lalifeier.eu.org/youtube/tDg3bJFYLzI.m3u8?t=1771972808&key=c8fdca73487fd2b3cfe4d47745031d23
-朝野黨團協商,https://live.lalifeier.eu.org/youtube/yUx5lB4mhZk.m3u8?t=1771972808&key=d1599f94e35b5226d0a127943f912ead
-教育及文化委員會,https://live.lalifeier.eu.org/youtube/Qo9QwuCpV3s.m3u8?t=1771972808&key=129dd2577cc9fee88add0bc7638d5fbd
-司法及法制委員會,https://live.lalifeier.eu.org/youtube/KUhidt89DVo.m3u8?t=1771972808&key=40a69535d78ffc4eeb04d7f78d9ae6af
-交通委員會,https://live.lalifeier.eu.org/youtube/teud7KwyEPw.m3u8?t=1771972808&key=59bb48652b5de1d0edd4709dbe4eede6
-財政委員會,https://live.lalifeier.eu.org/youtube/Cidl9JoRtGk.m3u8?t=1771972808&key=38613f506441816044e5a4e81ecdda3d
-經濟委員會,https://live.lalifeier.eu.org/youtube/xfikIGtkQeA.m3u8?t=1771972808&key=c72ee719895c4e477b75ec62fb7b92a3
-外交及國防委員會,https://live.lalifeier.eu.org/youtube/Af0TFVbxvAQ.m3u8?t=1771972808&key=efafa216a26c5669f209af940a786128
-內政委員會,https://live.lalifeier.eu.org/youtube/vGX0bMBVa4k.m3u8?t=1771972808&key=6d744d03ef46285c3b0906d88f76aa52
-程序委員會,https://live.lalifeier.eu.org/youtube/IvAXtzx5cUI.m3u8?t=1771972808&key=7303d5c3e057527f4eb50bbed91adf61
-紀律委員會,https://live.lalifeier.eu.org/youtube/KyHM5yvcLU4.m3u8?t=1771972808&key=f1c2966897e782b510790e8f383a984f
-修憲委員會,https://live.lalifeier.eu.org/youtube/1s_XWr7KzVE.m3u8?t=1771972808&key=3c67acecccb5efb4f8fbc18ff554cebf
-社會福利及衛生環境委員會,https://live.lalifeier.eu.org/youtube/DdUWlWZVOi8.m3u8?t=1771972808&key=28691c0124a7fdc99144dfda544fdc81
-經費稽核委員會,https://live.lalifeier.eu.org/youtube/nkejc54RyDU.m3u8?t=1771972808&key=5b8802111e2246c9c37bf38271d15675
+國會頻道1,https://live.lalifeier.eu.org/youtube/4HysYHJ6GkY.m3u8?t=1771976331&key=bf88a55465d455e7fb7c7f50686e05fd
+國會頻道2,https://live.lalifeier.eu.org/youtube/Lj8OWF6nzcg.m3u8?t=1771976331&key=9fefcd86523cf2f7555b3c08fc8e0db1
+立法院會議,https://live.lalifeier.eu.org/youtube/tDg3bJFYLzI.m3u8?t=1771976331&key=275ebff22fd814619d3e266a80a055ae
+朝野黨團協商,https://live.lalifeier.eu.org/youtube/yUx5lB4mhZk.m3u8?t=1771976331&key=237f9f90c5f6820753542a420458c532
+教育及文化委員會,https://live.lalifeier.eu.org/youtube/Qo9QwuCpV3s.m3u8?t=1771976331&key=cd9a87e5f4099d5922a30c1541afd1fe
+司法及法制委員會,https://live.lalifeier.eu.org/youtube/KUhidt89DVo.m3u8?t=1771976331&key=a15584f3b90c58c98c0752db1d2f3152
+交通委員會,https://live.lalifeier.eu.org/youtube/teud7KwyEPw.m3u8?t=1771976331&key=7e15eb7c4cdf35a6007b897747ecd871
+財政委員會,https://live.lalifeier.eu.org/youtube/Cidl9JoRtGk.m3u8?t=1771976331&key=38ef8adc7838b4e71458c5bce24c2dfe
+經濟委員會,https://live.lalifeier.eu.org/youtube/xfikIGtkQeA.m3u8?t=1771976331&key=bcd023a041661716dc49bc4b8d9177c4
+外交及國防委員會,https://live.lalifeier.eu.org/youtube/Af0TFVbxvAQ.m3u8?t=1771976331&key=afc64865f2698d812e75aff023dd4279
+內政委員會,https://live.lalifeier.eu.org/youtube/vGX0bMBVa4k.m3u8?t=1771976331&key=081c81e3552d7eeaa2bef72b41cb1927
+程序委員會,https://live.lalifeier.eu.org/youtube/IvAXtzx5cUI.m3u8?t=1771976331&key=92b7120ba4de1ccc22503e73d411ae19
+紀律委員會,https://live.lalifeier.eu.org/youtube/KyHM5yvcLU4.m3u8?t=1771976331&key=af713a76d92ba26411516b8dbeb23b42
+修憲委員會,https://live.lalifeier.eu.org/youtube/1s_XWr7KzVE.m3u8?t=1771976331&key=f191c0aecb46caaf74b89c80063e4f38
+社會福利及衛生環境委員會,https://live.lalifeier.eu.org/youtube/DdUWlWZVOi8.m3u8?t=1771976331&key=76df82677e1639e0928df447cf12b209
+經費稽核委員會,https://live.lalifeier.eu.org/youtube/nkejc54RyDU.m3u8?t=1771976331&key=3d8e4d19e94ac1bf0efa8ae04b96f711
 YouTube「台灣政論」,#genre#
-94要客訴,https://live.lalifeier.eu.org/youtube/5jjcUKXP2Ac.m3u8?t=1771972808&key=a672c2ea9b6c946feccc3d50f756fab7
-新聞大白話,https://live.lalifeier.eu.org/youtube/Y491n5FecPE.m3u8?t=1771972808&key=23e20ff5b572bfe6ad493a4fd827e429
-前進新台灣,https://live.lalifeier.eu.org/youtube/GaQCo4f3Ujs?list=PLd5zGth6CDdWAZYkB6s0j844ywVVTPyFl.m3u8&t=1771972808&key=320cc275bd8a0be51d07261916740e6a
-國民大會,https://live.lalifeier.eu.org/youtube/ccdrE3P4NIA.m3u8?t=1771972808&key=e7aa58c373da843718f2f0e02338e63a
-新台灣加油,https://live.lalifeier.eu.org/youtube/zZUZZNRbHhU?list=PLd5zGth6CDdUAYUqJy3p5KY1ui79_Mtrt.m3u8&t=1771972808&key=d64b150a959141f6431e1a6159a2aea5
-少康戰情室,https://live.lalifeier.eu.org/youtube/qa7cuB0ub_I.m3u8?t=1771972808&key=d431457b119e2d10ec0f50a63d39b3ed
+94要客訴,https://live.lalifeier.eu.org/youtube/5jjcUKXP2Ac.m3u8?t=1771976331&key=8ca4eb0026f0c4681b005b3e8350ae0c
+新聞大白話,https://live.lalifeier.eu.org/youtube/Y491n5FecPE.m3u8?t=1771976331&key=41f710e720f238ceaed16dd0584f10cd
+前進新台灣,https://live.lalifeier.eu.org/youtube/GaQCo4f3Ujs?list=PLd5zGth6CDdWAZYkB6s0j844ywVVTPyFl.m3u8&t=1771976331&key=839e77b938107f6c173f20d51e533fe4
+國民大會,https://live.lalifeier.eu.org/youtube/ccdrE3P4NIA.m3u8?t=1771976331&key=9a9d2c96acf3c9fe94eb062afbdbcefc
+新台灣加油,https://live.lalifeier.eu.org/youtube/zZUZZNRbHhU?list=PLd5zGth6CDdUAYUqJy3p5KY1ui79_Mtrt.m3u8&t=1771976331&key=839c0e865abcb7fb374d4b455f3c44fd
+少康戰情室,https://live.lalifeier.eu.org/youtube/qa7cuB0ub_I.m3u8?t=1771976331&key=e4fedd601d1bd542ccc672be0245cd85
 YouTube「綜藝」,#genre#
-綜藝玩很大,https://live.lalifeier.eu.org/youtube/ryClunmbUaI.m3u8?t=1771972808&key=bb8a4d083baefa6b74be688f0cb65f22
-飢餓遊戲,https://live.lalifeier.eu.org/youtube/A98LJq71BZg.m3u8?t=1771972808&key=d38a7e964b0091c5d19fc65cbefe8f3a
-天才衝衝衝,https://live.lalifeier.eu.org/youtube/QUcOMgw4srY.m3u8?t=1771972808&key=1e492c92a9273ff6a45919a7994aebc7
-大熱門猜歌王4周年,https://live.lalifeier.eu.org/youtube/cpsP1wd-HgM.m3u8?t=1771972808&key=e373ff2eb10cc4d735288ac68c8aa977
-11點熱吵店,https://live.lalifeier.eu.org/youtube/nLi9sJV_SSU.m3u8?t=1771972808&key=bdf68365f73f388936907e255d3c0583
-住左邊住右邊,https://live.lalifeier.eu.org/youtube/_2IsSRh4FAA.m3u8?t=1771972808&key=784181455dfa4e33d716b959dded419f
-萬秀豬王,https://live.lalifeier.eu.org/youtube/ADDSmXoPDY8.m3u8?t=1771972808&key=918dd368934a903abb6a161b38c2ef0a
-我愛冰冰 Show,https://live.lalifeier.eu.org/youtube/zf1hVmrf5r8.m3u8?t=1771972808&key=aa67d03c4ba4bd8cdc5d42c6b7a4688b
-豬哥會社,https://live.lalifeier.eu.org/youtube/0aBJU1mFpsk.m3u8?t=1771972808&key=2a89996b7179e9b661a3f244ef340589
-中廣流行網,https://live.lalifeier.eu.org/youtube/TsiMLrOSY5U.m3u8?t=1771972808&key=12299cfcff21ce7b21ecb83e37a25d64
-公視,https://live.lalifeier.eu.org/youtube/C6gYqSHLRw4.m3u8?t=1771972808&key=c4687f35b01c30ce1343cd007a172434
-公視台語台,https://live.lalifeier.eu.org/youtube/6KlRR_DGhmI.m3u8?t=1771972808&key=48b43790d787a5bbd5e55e3d65a54702
+綜藝玩很大,https://live.lalifeier.eu.org/youtube/ryClunmbUaI.m3u8?t=1771976331&key=09e97ea96a6bb037ac5a5d811c1ca404
+飢餓遊戲,https://live.lalifeier.eu.org/youtube/A98LJq71BZg.m3u8?t=1771976331&key=0adea09b8a5a0522a960e7d670698dca
+天才衝衝衝,https://live.lalifeier.eu.org/youtube/QUcOMgw4srY.m3u8?t=1771976331&key=3ecce1ca76edb7b20fb333d9eca9e7af
+大熱門猜歌王4周年,https://live.lalifeier.eu.org/youtube/cpsP1wd-HgM.m3u8?t=1771976331&key=2e44b340c21838256d54039044701553
+11點熱吵店,https://live.lalifeier.eu.org/youtube/nLi9sJV_SSU.m3u8?t=1771976331&key=e1b7cb077297b8841347fd292ef2700e
+住左邊住右邊,https://live.lalifeier.eu.org/youtube/_2IsSRh4FAA.m3u8?t=1771976331&key=ddb915861498143deb565f5a9174d43d
+萬秀豬王,https://live.lalifeier.eu.org/youtube/ADDSmXoPDY8.m3u8?t=1771976331&key=6396f0de39669c35f85f5e9c78fed2b9
+我愛冰冰 Show,https://live.lalifeier.eu.org/youtube/zf1hVmrf5r8.m3u8?t=1771976331&key=3f8aea6b33cb73fe05509a4ae602b381
+豬哥會社,https://live.lalifeier.eu.org/youtube/0aBJU1mFpsk.m3u8?t=1771976331&key=4887460f93a96b9e59f3487594911499
+中廣流行網,https://live.lalifeier.eu.org/youtube/TsiMLrOSY5U.m3u8?t=1771976331&key=389231ee1c087b316ede7d1ca38a8e53
+公視,https://live.lalifeier.eu.org/youtube/C6gYqSHLRw4.m3u8?t=1771976331&key=5208c6dd97e931ccd3fade9ff08f944b
+公視台語台,https://live.lalifeier.eu.org/youtube/6KlRR_DGhmI.m3u8?t=1771976331&key=f7a3b2241d773c5b00798f1ae08b385e
 YouTube「電影」,#genre#
-GATV 電影台,https://live.lalifeier.eu.org/youtube/XDrGAVTkJfM.m3u8?t=1771972808&key=fefa20dd40cd7ef595fd758dc58a49c2
+GATV 電影台,https://live.lalifeier.eu.org/youtube/XDrGAVTkJfM.m3u8?t=1771976331&key=4b169b42a74a5ac8065ca85ad55391a0
 YouTube「電視劇」,#genre#
-花樣少年少女,https://live.lalifeier.eu.org/youtube/meLyfePctVQ.m3u8?t=1771972808&key=82a658010d16e8ccbf1d5f205fc44b29
-終極系列,https://live.lalifeier.eu.org/youtube/Rqgc4mM5A3Y.m3u8?t=1771972808&key=6ddf7cc0e1cf2a3469e056367919c596
-新兵日記 特戰英雄HD,https://live.lalifeier.eu.org/youtube/hbm8Uov-YOE.m3u8?t=1771972808&key=2a2192f4c1009b256e300a124b5a83cf
-藍色水玲瓏,https://live.lalifeier.eu.org/youtube/298QROP4xe0.m3u8?t=1771972808&key=97993153c082ad7aec5f99f7368eea36
-水雲間,https://live.lalifeier.eu.org/youtube/P_joZpoB444.m3u8?t=1771972808&key=faab0dfdba96d48170bb8b4e95100338
-梅花烙,https://live.lalifeier.eu.org/youtube/jkF7cseHZ5s.m3u8?t=1771972808&key=6bdcad15e9e5f073b5218dc5b40c211d
-華視戲劇頻道,https://live.lalifeier.eu.org/youtube/5_NHwTULasE.m3u8?t=1771972808&key=ebe79a3febf90be799a7be3f5a668be2
-神機妙算劉伯溫,https://live.lalifeier.eu.org/youtube/9GZNsvhmPXo.m3u8?t=1771972808&key=455fc8ee458935b58124b2c21f276be4
-瑯琊榜,https://live.lalifeier.eu.org/youtube/u1uU2AzsD0k.m3u8?t=1771972808&key=445de938b21c7bcd08a4fab9a4a2d29d
-知否知否應是綠肥紅瘦,https://live.lalifeier.eu.org/youtube/hcxLMIfxi0A.m3u8?t=1771972808&key=7886628d23629402a567cb0ace80fa59
-三國2010,https://live.lalifeier.eu.org/youtube/Ta_6UmVunh4.m3u8?t=1771972808&key=ccf1518d5a0eec3ba4ec3b39b94719e7
-神鵰俠侶2014,https://live.lalifeier.eu.org/youtube/Vu_eDZF3PXU.m3u8?t=1771972808&key=b32b1f5383709364669266f42cf7b869
-去有風的地方,https://live.lalifeier.eu.org/youtube/be6L9zpVqw4.m3u8?t=1771972808&key=c639821d1dcaa8f21609ae13f796d815
-我和我們在一起,https://live.lalifeier.eu.org/youtube/FdoVTSTSMho.m3u8?t=1771972808&key=4836087f106f5d8321db614669fc30fc
+花樣少年少女,https://live.lalifeier.eu.org/youtube/meLyfePctVQ.m3u8?t=1771976331&key=6c552050bc95cdb2ad7a3ff5e422b886
+終極系列,https://live.lalifeier.eu.org/youtube/Rqgc4mM5A3Y.m3u8?t=1771976331&key=87f4089e1696186c567915fde2f1c443
+新兵日記 特戰英雄HD,https://live.lalifeier.eu.org/youtube/hbm8Uov-YOE.m3u8?t=1771976331&key=4af9da0486f48576957887b4e5f9b1d1
+藍色水玲瓏,https://live.lalifeier.eu.org/youtube/298QROP4xe0.m3u8?t=1771976331&key=75d792ea4c7d4e25e263c575760c2991
+水雲間,https://live.lalifeier.eu.org/youtube/P_joZpoB444.m3u8?t=1771976331&key=91c22b3cee2b6609a3718e3ed00086ac
+梅花烙,https://live.lalifeier.eu.org/youtube/jkF7cseHZ5s.m3u8?t=1771976331&key=68be7e264eada182ab6ea2933724bf89
+華視戲劇頻道,https://live.lalifeier.eu.org/youtube/5_NHwTULasE.m3u8?t=1771976331&key=53a67a9e8868a7718a2fba67cb506f94
+神機妙算劉伯溫,https://live.lalifeier.eu.org/youtube/9GZNsvhmPXo.m3u8?t=1771976331&key=b4470dc59ae70387d7ddf40bc4e2d428
+瑯琊榜,https://live.lalifeier.eu.org/youtube/u1uU2AzsD0k.m3u8?t=1771976331&key=51d2aacadbbef4ced119ff0721d94945
+知否知否應是綠肥紅瘦,https://live.lalifeier.eu.org/youtube/hcxLMIfxi0A.m3u8?t=1771976331&key=cdc0b49f995a16972f21ec55bb3eb594
+三國2010,https://live.lalifeier.eu.org/youtube/Ta_6UmVunh4.m3u8?t=1771976331&key=ec73f6286790aa754bcf36ad784e8a3a
+神鵰俠侶2014,https://live.lalifeier.eu.org/youtube/Vu_eDZF3PXU.m3u8?t=1771976331&key=336104c1a9a6e464e911b21bdcf34b77
+去有風的地方,https://live.lalifeier.eu.org/youtube/be6L9zpVqw4.m3u8?t=1771976331&key=ba87584747a6fe5725be3860a78c8aa1
+我和我們在一起,https://live.lalifeier.eu.org/youtube/FdoVTSTSMho.m3u8?t=1771976331&key=a129f34ed291e3b079af76bb28171177
 YouTube「美食」,#genre#
-非凡大探索 台北美食,https://live.lalifeier.eu.org/youtube/PTJSLPpUwgw.m3u8?t=1771972808&key=49ed9d6b560d44d7ef7c8ef6b1444701
-非凡大探索 台中美食,https://live.lalifeier.eu.org/youtube/Im3P69GqV90.m3u8?t=1771972808&key=8240ea9428458b82fea2922129dc7182
-非凡大探索 高雄美食,https://live.lalifeier.eu.org/youtube/ZN2naHsV94M.m3u8?t=1771972808&key=0315ac754523b49d44b94565df387f28
-亞洲美食頻道,https://live.lalifeier.eu.org/youtube/nUzOmgx3RvM.m3u8?t=1771972808&key=383562701307ba8a8923e61758439c0a
+非凡大探索 台北美食,https://live.lalifeier.eu.org/youtube/PTJSLPpUwgw.m3u8?t=1771976331&key=827f665389a5b7776d05f60e061b911e
+非凡大探索 台中美食,https://live.lalifeier.eu.org/youtube/Im3P69GqV90.m3u8?t=1771976331&key=7afd6ed9f7c15735fa43115da7194132
+非凡大探索 高雄美食,https://live.lalifeier.eu.org/youtube/ZN2naHsV94M.m3u8?t=1771976331&key=90a04b9738029a60ed42b589d8aaf3f5
+亞洲美食頻道,https://live.lalifeier.eu.org/youtube/nUzOmgx3RvM.m3u8?t=1771976331&key=69038b9644fe2da479d07ab8bfacc14e
 YouTube「旅遊/文化」,#genre#
-MIT 台灣誌,https://live.lalifeier.eu.org/youtube/zt9tSbiw4sg.m3u8?t=1771972808&key=a3ad8f78172bfcee08ac459c331a5b5f
-大陸尋奇,https://live.lalifeier.eu.org/youtube/UtOw97Ba8hE.m3u8?t=1771972808&key=c63e78a9a8e306edd318028406f84b81
-台灣啟示錄,https://live.lalifeier.eu.org/youtube/4Eu20-JSWqQ.m3u8?t=1771972808&key=4d4bd2e2a7ac232c7b22ddb322b662c2
+MIT 台灣誌,https://live.lalifeier.eu.org/youtube/zt9tSbiw4sg.m3u8?t=1771976331&key=eaa51fc14b8b13ec0b97391eb2f3df99
+大陸尋奇,https://live.lalifeier.eu.org/youtube/UtOw97Ba8hE.m3u8?t=1771976331&key=41a3891e0b618ffa222993fd7e4e0e90
+台灣啟示錄,https://live.lalifeier.eu.org/youtube/4Eu20-JSWqQ.m3u8?t=1771976331&key=051bc0bc6ddee9008f06bb731cd90169
 YouTube「兒童」,#genre#
-MOMO 親子台,https://live.lalifeier.eu.org/youtube/R3PZkCUJSbQ.m3u8?t=1771972808&key=b121ebc05cfecd0a180e3f5b01e000d9
-YOYO TV,https://live.lalifeier.eu.org/youtube/YOOQXWYym5g.m3u8?t=1771972808&key=c3f84feea6666015108b854ecaebc16b
-小豬佩奇,https://live.lalifeier.eu.org/youtube/nehQ7AMCBhI.m3u8?t=1771972808&key=53ad3a11b943834d8249a73788563992
-我們這一家,https://live.lalifeier.eu.org/youtube/WHednLn-HjA.m3u8?t=1771972808&key=2381ee411f87dde404b4435178febb1d
-蠟筆小新TV版,https://live.lalifeier.eu.org/youtube/T0J79UaCTAs.m3u8?t=1771972808&key=9902b80ac9de5ed8fa5e3e13836ca636
-新哆啦A夢,https://live.lalifeier.eu.org/youtube/dgAEF2ppKg8.m3u8?t=1771972808&key=fac3d59de9f18886b07f4c3b297831c5
-中華一番,https://live.lalifeier.eu.org/youtube/JemHjZa_VEU.m3u8?t=1771972808&key=01e7c6cc36126ce842011153b2704218
-JOJO的奇妙冒險,https://live.lalifeier.eu.org/youtube/pMR3iehJMjk.m3u8?t=1771972808&key=2d08ba1bd0923fe1e81afda3dec757c1
-湯姆貓,https://live.lalifeier.eu.org/youtube/tKz1JGQP_zw.m3u8?t=1771972808&key=ca4269c1e662b012b95b50a6b7374de2
+MOMO 親子台,https://live.lalifeier.eu.org/youtube/R3PZkCUJSbQ.m3u8?t=1771976331&key=68c5093561d2ce92435e3179e1b66d42
+YOYO TV,https://live.lalifeier.eu.org/youtube/YOOQXWYym5g.m3u8?t=1771976331&key=8b0d812b24365a60782269fae705ccca
+小豬佩奇,https://live.lalifeier.eu.org/youtube/nehQ7AMCBhI.m3u8?t=1771976331&key=e86daefdd85b20574c98d1f7bc94b8c1
+我們這一家,https://live.lalifeier.eu.org/youtube/WHednLn-HjA.m3u8?t=1771976331&key=00e8a5208d6136723035b8d551547177
+蠟筆小新TV版,https://live.lalifeier.eu.org/youtube/T0J79UaCTAs.m3u8?t=1771976331&key=dd0bc99c03e959a0185c17429db9905c
+新哆啦A夢,https://live.lalifeier.eu.org/youtube/dgAEF2ppKg8.m3u8?t=1771976331&key=14a772ffc27d5340b59ac6be14d715f9
+中華一番,https://live.lalifeier.eu.org/youtube/JemHjZa_VEU.m3u8?t=1771976331&key=2094a2dbf0b4c77b518d1686bc90f197
+JOJO的奇妙冒險,https://live.lalifeier.eu.org/youtube/pMR3iehJMjk.m3u8?t=1771976331&key=b482cd1d0b9c63246a0213f010f7b631
+湯姆貓,https://live.lalifeier.eu.org/youtube/tKz1JGQP_zw.m3u8?t=1771976331&key=869e84d8d956025c35e7f7a5455c0dfe
 YouTube「音樂」,#genre#
-KKBOX華語單曲,https://live.lalifeier.eu.org/youtube/WXM7k3ZcUdc.m3u8?t=1771972808&key=7ce706fa2313f4808f6bd587d78719da
-80首必听经典老歌,https://live.lalifeier.eu.org/youtube/geXFAGgTxWI.m3u8?t=1771972808&key=b409f25dbd053b84fb3c40440ac54cf6
-经典老歌500首大全,https://live.lalifeier.eu.org/youtube/1MHH2_NmzFs.m3u8?t=1771972808&key=ebcb0dafff885c5d612bd8b47063620f
-粵語流行音樂合集,https://live.lalifeier.eu.org/youtube/CFCynOQWX0Q.m3u8?t=1771972808&key=8011abf9b472524f25737f45e217c421
-2025夜店混音,https://live.lalifeier.eu.org/youtube/aQT8mUr445I.m3u8?t=1771972808&key=80da8470a230b06776b040c57fe36cbf
+KKBOX華語單曲,https://live.lalifeier.eu.org/youtube/WXM7k3ZcUdc.m3u8?t=1771976331&key=6053691f9b6bc85edfd2059c30262793
+80首必听经典老歌,https://live.lalifeier.eu.org/youtube/geXFAGgTxWI.m3u8?t=1771976331&key=f88e254e8139b2fd6915d64f9f9e6f3a
+经典老歌500首大全,https://live.lalifeier.eu.org/youtube/1MHH2_NmzFs.m3u8?t=1771976331&key=39dbe77cbea012023e63e402a3d5f2bb
+粵語流行音樂合集,https://live.lalifeier.eu.org/youtube/CFCynOQWX0Q.m3u8?t=1771976331&key=4df152e39e293a7104c0788d1e5ca48d
+2025夜店混音,https://live.lalifeier.eu.org/youtube/aQT8mUr445I.m3u8?t=1771976331&key=ff9fb6dda5efb83698f1d28adb79ebcd
 YouTube「體育」,#genre#
-HOP Sports,https://live.lalifeier.eu.org/youtube/JaGd4Yy_xjA.m3u8?t=1771972808&key=f8e19581ed737c2c781cc0902ffa886a
+HOP Sports,https://live.lalifeier.eu.org/youtube/JaGd4Yy_xjA.m3u8?t=1771976331&key=43919fc19edb698a2cd1ab26eab68268
 YouTube「中國大陸」,#genre#
-CCTV 中國央視,https://live.lalifeier.eu.org/youtube/bEZYrBMYNNg.m3u8?t=1771972808&key=447ce090487721f3c04a1f8f93b7c7f4
-鳳凰衛視,https://live.lalifeier.eu.org/youtube/HFib76ySpbU.m3u8?t=1771972808&key=a19439af04550aa2e02b9c10e90628b0
-鳳凰資訊,https://live.lalifeier.eu.org/youtube/a3WZVssKlAI.m3u8?t=1771972808&key=51ad0d1bf0c517132c1cd56a2c0dbff5
+CCTV 中國央視,https://live.lalifeier.eu.org/youtube/bEZYrBMYNNg.m3u8?t=1771976331&key=659b21d60d892a8351271928cd5ea57f
+鳳凰衛視,https://live.lalifeier.eu.org/youtube/HFib76ySpbU.m3u8?t=1771976331&key=4022fabf1280db2238d6b5084d3694cf
+鳳凰資訊,https://live.lalifeier.eu.org/youtube/a3WZVssKlAI.m3u8?t=1771976331&key=552343e14178c410138bee41bb5ff429
 YouTube「宗教」,#genre#
-大愛一臺,https://live.lalifeier.eu.org/youtube/MIqUplvSRWA.m3u8?t=1771972808&key=c84cefdcfd84a1998e9c1b2ee10f17d1
-大愛二臺,https://live.lalifeier.eu.org/youtube/DTNkEm6jaqQ.m3u8?t=1771972808&key=3ff283225cac309e5cd4851b87bdc76e
-大愛海外台,https://live.lalifeier.eu.org/youtube/MIqUplvSRWA.m3u8?t=1771972808&key=c84cefdcfd84a1998e9c1b2ee10f17d1
-華藏衛視,https://live.lalifeier.eu.org/youtube/ypmrwYeLAaQ.m3u8?t=1771972808&key=284509dd686e5161aad91fef3ae16493
-淨空老法師,https://live.lalifeier.eu.org/youtube/LuomVsFAFpg.m3u8?t=1771972808&key=4cff2afa7ece36b5af744999207c04df
-誠心電視台,https://live.lalifeier.eu.org/youtube/ieHSbyOeftY.m3u8?t=1771972808&key=45bd01a8c6815406d200583abd7f071f
-信大電視台,https://live.lalifeier.eu.org/youtube/_f94RdVE_-A.m3u8?t=1771972808&key=84513de2629b536a93348c1259a832be
-海豚電視台,https://live.lalifeier.eu.org/youtube/Na0qOCrZvgw.m3u8?t=1771972808&key=17f2440eaf40b721d47792cb0278f57f
-叫您第一名,https://live.lalifeier.eu.org/youtube/BUIRHO31E98.m3u8?t=1771972808&key=eb40fadf88c47e61b774f956fd6a3a8e
-桐瑛虎尾電視臺,https://live.lalifeier.eu.org/youtube/9pdoqvnssSE.m3u8?t=1771972808&key=574e5b26917b3442ee94d70962ddafe0
-桐瑛台南電視臺,https://live.lalifeier.eu.org/youtube/bJvFSrjiAQA.m3u8?t=1771972808&key=e1cf14bbcb853180af5ea27555adf1f2
+大愛一臺,https://live.lalifeier.eu.org/youtube/MIqUplvSRWA.m3u8?t=1771976331&key=0848053a0712cac0309f9a87ef8e954a
+大愛二臺,https://live.lalifeier.eu.org/youtube/DTNkEm6jaqQ.m3u8?t=1771976331&key=74decb94ebe1c0e0ed3ffc7427ba364c
+大愛海外台,https://live.lalifeier.eu.org/youtube/MIqUplvSRWA.m3u8?t=1771976331&key=0848053a0712cac0309f9a87ef8e954a
+華藏衛視,https://live.lalifeier.eu.org/youtube/ypmrwYeLAaQ.m3u8?t=1771976331&key=c02fa160d6f9dd5c4b4a56b61e73d358
+淨空老法師,https://live.lalifeier.eu.org/youtube/LuomVsFAFpg.m3u8?t=1771976331&key=670aea0f9550a6d8ec8c60ee5fd4e456
+誠心電視台,https://live.lalifeier.eu.org/youtube/ieHSbyOeftY.m3u8?t=1771976331&key=95aaaa662f8a3c3e85280523daee6a27
+信大電視台,https://live.lalifeier.eu.org/youtube/_f94RdVE_-A.m3u8?t=1771976331&key=c736742ca6d9ed7eef794681eec15f8b
+海豚電視台,https://live.lalifeier.eu.org/youtube/Na0qOCrZvgw.m3u8?t=1771976331&key=12825bd559d582c321ade5489bf8594f
+叫您第一名,https://live.lalifeier.eu.org/youtube/BUIRHO31E98.m3u8?t=1771976331&key=303c34dfd5ab43647bcacce0962ae611
+桐瑛虎尾電視臺,https://live.lalifeier.eu.org/youtube/9pdoqvnssSE.m3u8?t=1771976331&key=c351b465f369ffa2ce5742243d4dab34
+桐瑛台南電視臺,https://live.lalifeier.eu.org/youtube/bJvFSrjiAQA.m3u8?t=1771976331&key=dfba330efccf729bb4dceed8fb91fefb
 YouTube「購物」,#genre#
-momo購物一台,https://live.lalifeier.eu.org/youtube/_pZQ1Lk0xMA.m3u8?t=1771972808&key=3cf1e8d0b766881d5262bf04c270a53c
-momo購物二台,https://live.lalifeier.eu.org/youtube/xbNWkUyxQGM.m3u8?t=1771972808&key=91614d6fee197f98675987a322e64432
-東森購物CH34,https://live.lalifeier.eu.org/youtube/_Vlzn9qAHD4.m3u8?t=1771972808&key=18af1406cb80f1ad5c03d0f6804ea875
-東森購物CH46,https://live.lalifeier.eu.org/youtube/Z50JFuNgvB0.m3u8?t=1771972808&key=a8d0be0760f39dbcbda8369fc58cd97b
-東森購物CH47,https://live.lalifeier.eu.org/youtube/ViJ3XiN6Q3M.m3u8?t=1771972808&key=236d11107458a16b3ecb671f6aae5bfc
-東森購物CH60,https://live.lalifeier.eu.org/youtube/u0NYyH3ZesE.m3u8?t=1771972808&key=fe713a3c46349c6e13dca7091c841fa9
-ViVa TV 美好購物1台,https://live.lalifeier.eu.org/youtube/7IyxOiGMLgw.m3u8?t=1771972808&key=0b7f8914343f76f89bbcaa54c8008cb4
-ViVa TV 美好購物2台,https://live.lalifeier.eu.org/youtube/lEXITHxcagI.m3u8?t=1771972808&key=055f5e8f1b6acde1b0d3c360c2c870da
+momo購物一台,https://live.lalifeier.eu.org/youtube/_pZQ1Lk0xMA.m3u8?t=1771976331&key=4030e43e0ec56514122636ad96159ea4
+momo購物二台,https://live.lalifeier.eu.org/youtube/xbNWkUyxQGM.m3u8?t=1771976331&key=6a15927005c432d219f3aa797e193b05
+東森購物CH34,https://live.lalifeier.eu.org/youtube/_Vlzn9qAHD4.m3u8?t=1771976331&key=68050d4b0fb92786850b4bb9e33a19f4
+東森購物CH46,https://live.lalifeier.eu.org/youtube/Z50JFuNgvB0.m3u8?t=1771976331&key=d49d0f0938232437d5bd2c713a251803
+東森購物CH47,https://live.lalifeier.eu.org/youtube/ViJ3XiN6Q3M.m3u8?t=1771976331&key=bc7f77682555e629365f41d3301867f7
+東森購物CH60,https://live.lalifeier.eu.org/youtube/u0NYyH3ZesE.m3u8?t=1771976331&key=73564c2651d56c2204c1354c7688873d
+ViVa TV 美好購物1台,https://live.lalifeier.eu.org/youtube/7IyxOiGMLgw.m3u8?t=1771976331&key=e34362bc53558391f7c149ae5c833a52
+ViVa TV 美好購物2台,https://live.lalifeier.eu.org/youtube/lEXITHxcagI.m3u8?t=1771976331&key=3a1588edc8decc8991197a7b7974fe1c
 YouTube「即時影像」,#genre#
-東森各地影像,https://live.lalifeier.eu.org/youtube/yR7h7xmFVLQ.m3u8?t=1771972808&key=859a78f5e6750d251ce8f340cb63870f
-台東即時影像: 三仙台,https://live.lalifeier.eu.org/youtube/dQ7Sd6PGLdA.m3u8?t=1771972808&key=32320b11159054152101c9f1a4377892
-台東即時影像: 多良車站1,https://live.lalifeier.eu.org/youtube/UCG1aXVO8H8.m3u8?t=1771972808&key=2668daeb6327faac7e9a392df5882f26
-台東即時影像: 長虹橋,https://live.lalifeier.eu.org/youtube/JnD8Rk3o0BM.m3u8?t=1771972808&key=aa0bcf994dabdb35140a529507db13c4
-台東即時影像: 加路蘭遊憩區,https://live.lalifeier.eu.org/youtube/AKl3F6cAY2Q.m3u8?t=1771972808&key=c03e99653eb21d7639182f786cc7a234
-台東即時影像: 都歷遊客中心,https://live.lalifeier.eu.org/youtube/JhQuR77AR7U.m3u8?t=1771972808&key=06889f1136117f259826c614b07fc4cb
-台東即時影像: 華源曙光觀景台,https://live.lalifeier.eu.org/youtube/TY4qQElcUrA.m3u8?t=1771972808&key=dcd5c5660361b22df7aeeb7d29d8aa65
-台東即時影像: 杉原灣,https://live.lalifeier.eu.org/youtube/VqS_Y8ZCj6M.m3u8?t=1771972808&key=7aa566bb674fb4eba14d813958962912
-台東即時影像: 石梯坪,https://live.lalifeier.eu.org/youtube/mXnigLvIL0Q.m3u8?t=1771972808&key=d95eb23b2d6c684e0f8ef2e1812be850
-台東即時影像: 石梯坪2,https://live.lalifeier.eu.org/youtube/keunRm78rj4.m3u8?t=1771972808&key=a3e8a1ddd10899af8efaa7baa820da83
-台東即時影像: 金樽遊憩區,https://live.lalifeier.eu.org/youtube/ZdqHgQwvZOw.m3u8?t=1771972808&key=130365081d8adede9f5e4ff02d1c48d3
-台東即時影像: 金樽浪點,https://live.lalifeier.eu.org/youtube/q3KJt-SZc2s.m3u8?t=1771972808&key=273e8cc6c2e1ebab6d9e1c5d7e66caeb
-台東即時影像: 金崙大橋,https://live.lalifeier.eu.org/youtube/9QqBz3kNHis.m3u8?t=1771972808&key=61d73f05b86a5204cc8e70e8f86cb3d3
-台東即時影像: 大石鼻山,https://live.lalifeier.eu.org/youtube/JkoXcXI04Qk.m3u8?t=1771972808&key=e99af037981c53f701aef9f7d60260be
-台東即時影像: 富山海域,https://live.lalifeier.eu.org/youtube/Rsq95SQ26bY.m3u8?t=1771972808&key=407469aa1d6aef34170a2ab6634bd33c
-台東即時影像: 富岡漁港,https://live.lalifeier.eu.org/youtube/D945F_dauls.m3u8?t=1771972808&key=b7d1b15e6e4f240125d2de1e8ea47c32
-台東即時影像: 鹿野高台,https://live.lalifeier.eu.org/youtube/rvc1klNIgQc.m3u8?t=1771972808&key=2057e4977155d27134f287f9cf0e33ff
-台東即時影像: 池上天堂路,https://live.lalifeier.eu.org/youtube/6kUEK3LVrro.m3u8?t=1771972808&key=ca136541268ef8b324c3240c8c1dbac8
-台東即時影像: 娜路彎酒店眺望台東市區,https://live.lalifeier.eu.org/youtube/Yo64T79w6Vg.m3u8?t=1771972808&key=4d6fc9cafd7bcc579ee1fc01fee02f38
-台東即時影像: 綠島帆船鼻,https://live.lalifeier.eu.org/youtube/pLdBc8PvZko.m3u8?t=1771972808&key=57c990598259935c3f90a2a40b5f6c84
-台東即時影像: 綠島南寮漁港,https://live.lalifeier.eu.org/youtube/wTHhv7M0vCI.m3u8?t=1771972808&key=6a92956bec98f5981716acb5bc035db7
-台東即時影像: 綠島柴口浮潛區,https://live.lalifeier.eu.org/youtube/zQQSfAkjCJc.m3u8?t=1771972808&key=7006abe4b29e30d52f6da7e48f3eaefc
-台東即時影像: 台東航空站,https://live.lalifeier.eu.org/youtube/7jLL1MBcwcg.m3u8?t=1771972808&key=48f35add38be2197f269dcc1e57f3b47
-台東即時影像: 蘭嶼航空站,https://live.lalifeier.eu.org/youtube/kpVJY-3fDsU.m3u8?t=1771972808&key=43e66e14d8a55145af5c191bc0db0548
-花蓮即時影像: 鯉魚潭,https://live.lalifeier.eu.org/youtube/29H5j3EsV3Q.m3u8?t=1771972808&key=59dd0f6cd2e2269b0de9a7e454415cc0
-花蓮即時影像: 六十石山,https://live.lalifeier.eu.org/youtube/DliL9uMtPrI.m3u8?t=1771972808&key=de3191643bf29a8dfcf695b790169d44
-花蓮即時影像: 七星潭,https://live.lalifeier.eu.org/youtube/j3l32VFi5M8.m3u8?t=1771972808&key=0fb66a6587ec39d85d7c203293ec9558
-花蓮即時影像: 七星潭航道下景區,https://live.lalifeier.eu.org/youtube/1G06HwgIVT8.m3u8?t=1771972808&key=aee5acff66facd7ce688bbc0ea298d1f
-花蓮即時影像: 七星潭賞星廣場,https://live.lalifeier.eu.org/youtube/hs0I0XbPIcg.m3u8?t=1771972808&key=fa411eee8e0e91400f8b977ccddafdba
-花蓮即時影像: 赤科山,https://live.lalifeier.eu.org/youtube/5GTFLN9gZrc.m3u8?t=1771972808&key=9211b93fcce8b78feb04e0bf9c4145c7
-花蓮即時影像: 忘憂亭,https://live.lalifeier.eu.org/youtube/Ic6hqus0tjA.m3u8?t=1771972808&key=80d945c761d1273b4b1e7d94fa99d2b4
-花蓮即時影像: 東大門夜市,https://live.lalifeier.eu.org/youtube/Co2w4l8Wmzk.m3u8?t=1771972808&key=317ab6172eb14b3a28eb7d6de87a2f27
-花蓮即時影像: 南濱守望哨,https://live.lalifeier.eu.org/youtube/OQnwVN5lzsk.m3u8?t=1771972808&key=b1c7889c533903357ae249634e3cdc9b
-花蓮即時影像: 吉安,https://live.lalifeier.eu.org/youtube/JjDrTXSTJWI.m3u8?t=1771972808&key=a2bc357d7ee8f9961614bd06cf2aeb9f
-花蓮即時影像: 花蓮大橋,https://live.lalifeier.eu.org/youtube/BDs9UIRw4zc.m3u8?t=1771972808&key=ca787f7ec6bc7c7f9bbcf8a3ac3b484a
+東森各地影像,https://live.lalifeier.eu.org/youtube/yR7h7xmFVLQ.m3u8?t=1771976331&key=3f72897db5c4b534371080035ca023bc
+台東即時影像: 三仙台,https://live.lalifeier.eu.org/youtube/dQ7Sd6PGLdA.m3u8?t=1771976331&key=73588f21bc5ed11fc2377864cedd0761
+台東即時影像: 多良車站1,https://live.lalifeier.eu.org/youtube/UCG1aXVO8H8.m3u8?t=1771976331&key=fe4f324e89d346ed90cfdb9e2189ac79
+台東即時影像: 長虹橋,https://live.lalifeier.eu.org/youtube/JnD8Rk3o0BM.m3u8?t=1771976331&key=6e071435f8c106d250b9f7c018f871e0
+台東即時影像: 加路蘭遊憩區,https://live.lalifeier.eu.org/youtube/AKl3F6cAY2Q.m3u8?t=1771976331&key=004bf1a72ab956524234c37cceec7fcf
+台東即時影像: 都歷遊客中心,https://live.lalifeier.eu.org/youtube/JhQuR77AR7U.m3u8?t=1771976331&key=54b9454c39ea2ad89901b442bfd6bb61
+台東即時影像: 華源曙光觀景台,https://live.lalifeier.eu.org/youtube/TY4qQElcUrA.m3u8?t=1771976331&key=d6270c46fdf0a621dafc9dd9cf68ead0
+台東即時影像: 杉原灣,https://live.lalifeier.eu.org/youtube/VqS_Y8ZCj6M.m3u8?t=1771976331&key=d27d4950aa7be49cfe7c5a04a0e35d84
+台東即時影像: 石梯坪,https://live.lalifeier.eu.org/youtube/mXnigLvIL0Q.m3u8?t=1771976331&key=843e5131a8fdd4cd7a4b53095738b833
+台東即時影像: 石梯坪2,https://live.lalifeier.eu.org/youtube/keunRm78rj4.m3u8?t=1771976331&key=8b1156331277712cf87b98b931e5c6ad
+台東即時影像: 金樽遊憩區,https://live.lalifeier.eu.org/youtube/ZdqHgQwvZOw.m3u8?t=1771976331&key=31366e1c7561d5b592bd1b42cf9679bc
+台東即時影像: 金樽浪點,https://live.lalifeier.eu.org/youtube/q3KJt-SZc2s.m3u8?t=1771976331&key=533510784951a0929aa3364f655e4180
+台東即時影像: 金崙大橋,https://live.lalifeier.eu.org/youtube/9QqBz3kNHis.m3u8?t=1771976331&key=9d4b06361776892ff83b7eb8d0d47425
+台東即時影像: 大石鼻山,https://live.lalifeier.eu.org/youtube/JkoXcXI04Qk.m3u8?t=1771976331&key=23905af0fe5ac6b20b22c3bce3694976
+台東即時影像: 富山海域,https://live.lalifeier.eu.org/youtube/Rsq95SQ26bY.m3u8?t=1771976331&key=617d5bf127a0cf3023f890a7ddcbda80
+台東即時影像: 富岡漁港,https://live.lalifeier.eu.org/youtube/D945F_dauls.m3u8?t=1771976331&key=81d2e56a42043505ea072742ea05b678
+台東即時影像: 鹿野高台,https://live.lalifeier.eu.org/youtube/rvc1klNIgQc.m3u8?t=1771976331&key=9768422a86e86ec9951b73bf580c5f22
+台東即時影像: 池上天堂路,https://live.lalifeier.eu.org/youtube/6kUEK3LVrro.m3u8?t=1771976331&key=fa75498662675e33ee08b491a53c9f3b
+台東即時影像: 娜路彎酒店眺望台東市區,https://live.lalifeier.eu.org/youtube/Yo64T79w6Vg.m3u8?t=1771976331&key=6e1a922ba6d684f0376b80665b2aca57
+台東即時影像: 綠島帆船鼻,https://live.lalifeier.eu.org/youtube/pLdBc8PvZko.m3u8?t=1771976331&key=3b23b38772c91987fa4bf4bdcb557fd3
+台東即時影像: 綠島南寮漁港,https://live.lalifeier.eu.org/youtube/wTHhv7M0vCI.m3u8?t=1771976331&key=2d992c379c17fa17a020edfd28c7bca1
+台東即時影像: 綠島柴口浮潛區,https://live.lalifeier.eu.org/youtube/zQQSfAkjCJc.m3u8?t=1771976331&key=da55e244b98139ab9dc21a0c4d954ebe
+台東即時影像: 台東航空站,https://live.lalifeier.eu.org/youtube/7jLL1MBcwcg.m3u8?t=1771976331&key=e381e9240056a77060f133216054d657
+台東即時影像: 蘭嶼航空站,https://live.lalifeier.eu.org/youtube/kpVJY-3fDsU.m3u8?t=1771976331&key=d54aae868d14a095710cc678aa87b9e3
+花蓮即時影像: 鯉魚潭,https://live.lalifeier.eu.org/youtube/29H5j3EsV3Q.m3u8?t=1771976331&key=a77ee3104023cf7e2098b23e94919e7c
+花蓮即時影像: 六十石山,https://live.lalifeier.eu.org/youtube/DliL9uMtPrI.m3u8?t=1771976331&key=8e2a205fbf3c3d0e018a1eeba52d8105
+花蓮即時影像: 七星潭,https://live.lalifeier.eu.org/youtube/j3l32VFi5M8.m3u8?t=1771976331&key=019923fa5c7b722431059cd346ec8f25
+花蓮即時影像: 七星潭航道下景區,https://live.lalifeier.eu.org/youtube/1G06HwgIVT8.m3u8?t=1771976331&key=66a90f68667dc24be817585f281a24f6
+花蓮即時影像: 七星潭賞星廣場,https://live.lalifeier.eu.org/youtube/hs0I0XbPIcg.m3u8?t=1771976331&key=5ef7ca964703c6f0cadf4c389d1d1ced
+花蓮即時影像: 赤科山,https://live.lalifeier.eu.org/youtube/5GTFLN9gZrc.m3u8?t=1771976331&key=4a33a6fb3a84dc36cb313d4a19d7e8f1
+花蓮即時影像: 忘憂亭,https://live.lalifeier.eu.org/youtube/Ic6hqus0tjA.m3u8?t=1771976331&key=5512491d207afcebe988f676706642bd
+花蓮即時影像: 東大門夜市,https://live.lalifeier.eu.org/youtube/Co2w4l8Wmzk.m3u8?t=1771976331&key=e748ba4e343ed57a968e05119542619e
+花蓮即時影像: 南濱守望哨,https://live.lalifeier.eu.org/youtube/OQnwVN5lzsk.m3u8?t=1771976331&key=18e703195f5ae9f5986fdf0a05d7b270
+花蓮即時影像: 吉安,https://live.lalifeier.eu.org/youtube/JjDrTXSTJWI.m3u8?t=1771976331&key=c3a6145c4318f2221cb962887d528fce
+花蓮即時影像: 花蓮大橋,https://live.lalifeier.eu.org/youtube/BDs9UIRw4zc.m3u8?t=1771976331&key=a274ac916473dc2678de29006f84006b
 YouTube「紀錄片」,#genre#
-The Epic Story of Earth One Strange Rock S1 FULL EPISODES,https://live.lalifeier.eu.org/youtube/658N652S9Vg.m3u8?t=1771972808&key=530d40fd190745395a463753f6c05e98
-The Truth Behind the US Pentagon Program UFO's Investigating the Unknown S1 FULL EPISODES,https://live.lalifeier.eu.org/youtube/O6Qdxrf-6CM.m3u8?t=1771972808&key=ed25ad433852821c5e5c986896875e0a
-Kansas 動物園,https://live.lalifeier.eu.org/youtube/BSUnBPvX9K4.m3u8?t=1771972808&key=708710ff3ce6a95d3a83eacb9da41519
-熊貓頻道,https://live.lalifeier.eu.org/youtube/YMOYM1YZ97o.m3u8?t=1771972808&key=ba688a8a4eec1afc7d651c456260c1f0
-非洲動物探索,https://live.lalifeier.eu.org/youtube/DsNtwGJXTTs.m3u8?t=1771972808&key=ef477620ae16ecf23b9aededba909a54
-海洋探索,https://live.lalifeier.eu.org/youtube/9kMqCUu3_YY.m3u8?t=1771972808&key=513aa2078696844fd770b241423270ac
-自然生態探索,https://live.lalifeier.eu.org/youtube/g_L1Ay8P244.m3u8?t=1771972808&key=d0fc7695dbe1cf98f57f523062003048
-NASA 美國太空總署,https://live.lalifeier.eu.org/youtube/21X5lGlDOfg.m3u8?t=1771972808&key=3daa7608bb5bb09ada885e0119d21176
+The Epic Story of Earth One Strange Rock S1 FULL EPISODES,https://live.lalifeier.eu.org/youtube/658N652S9Vg.m3u8?t=1771976331&key=d8e744cfc56bf485912ba235397b1a3f
+The Truth Behind the US Pentagon Program UFO's Investigating the Unknown S1 FULL EPISODES,https://live.lalifeier.eu.org/youtube/O6Qdxrf-6CM.m3u8?t=1771976331&key=b86059d6dbd8fe8d12df2eb10b1a2c6c
+Kansas 動物園,https://live.lalifeier.eu.org/youtube/BSUnBPvX9K4.m3u8?t=1771976331&key=ae3a442722d4607bf1329f598e73708b
+熊貓頻道,https://live.lalifeier.eu.org/youtube/YMOYM1YZ97o.m3u8?t=1771976331&key=1e79ee19a0b050bfc5fa83acd5814f91
+非洲動物探索,https://live.lalifeier.eu.org/youtube/DsNtwGJXTTs.m3u8?t=1771976331&key=280bcf691442ec306b1fbe81880f4612
+海洋探索,https://live.lalifeier.eu.org/youtube/9kMqCUu3_YY.m3u8?t=1771976331&key=7bb00027cbffca2ce2ec83c0e1ce72c7
+自然生態探索,https://live.lalifeier.eu.org/youtube/g_L1Ay8P244.m3u8?t=1771976331&key=be39444bb1ae5a14c7ca26cfbd22ff6a
+NASA 美國太空總署,https://live.lalifeier.eu.org/youtube/21X5lGlDOfg.m3u8?t=1771976331&key=f7f42485d77837df59c98021761345a6
 YouTube「其他」,#genre#
-台視主頻,https://live.lalifeier.eu.org/youtube/uDqQo8a7Xmk.m3u8?t=1771972808&key=2b2eaa37dd7f2d1b92bdc25f5bcf66e5
-中天亞洲,https://live.lalifeier.eu.org/youtube/s2waUruqze4.m3u8?t=1771972808&key=e1fb1e27d07a494cc0f98006abf8d84a
-新唐人亞太台,https://live.lalifeier.eu.org/youtube/WIhgU_mc05A.m3u8?t=1771972808&key=7f3622fcc5f9d2186d74026a76143c11
-緯來日本台,https://live.lalifeier.eu.org/youtube/_zKvIMHN2O8.m3u8?t=1771972808&key=f81c9151eb0c6d452141fa28fec32001
-地震監視,https://live.lalifeier.eu.org/youtube/Owke6Quk7T0.m3u8?t=1771972808&key=3fcaf364b0be79451e30985e45417dde
+台視主頻,https://live.lalifeier.eu.org/youtube/uDqQo8a7Xmk.m3u8?t=1771976331&key=ecece5ae4d10518edc186da20f7e3ee2
+中天亞洲,https://live.lalifeier.eu.org/youtube/s2waUruqze4.m3u8?t=1771976331&key=373a8c3e9afebe547be469505a77931d
+新唐人亞太台,https://live.lalifeier.eu.org/youtube/WIhgU_mc05A.m3u8?t=1771976331&key=92d3a1ebb8bca50ca014b11db43246d2
+緯來日本台,https://live.lalifeier.eu.org/youtube/_zKvIMHN2O8.m3u8?t=1771976331&key=d9219a7a019275abef8d5b8aa65f5d47
+地震監視,https://live.lalifeier.eu.org/youtube/Owke6Quk7T0.m3u8?t=1771976331&key=060f4eebe608b54b56702889dd8842c9
 YouTube「代理」,#genre#
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
@@ -2756,13 +2756,13 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 上视外语,http://116.226.38.242:4022/udp/239.45.1.127:5140$上海电信组播
 东方影视,http://116.226.38.242:4022/udp/239.45.3.237:5140$上海电信组播
 欢笑剧场,http://116.226.38.242:4022/udp/239.45.3.196:5140$上海电信组播
-东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1771972808&key=6b61401642eb6db26eee649347de94c5
-上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1771972808&key=c3c58ce3af43126ec0c8689aef4c4549
-上海外语,https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1771972808&key=2cf3af2d68dd3a1db35a1d016fc89af0
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1771972808&key=e68a4813e6d56ad9b3aca94a63d9b723
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1771972808&key=388dc3fa3e235af6052143a1b34d9980
-上海纪实人文,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1771972808&key=20948b1bd01321a06da3f835b87a64f3
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1771972808&key=2f15f5a2adce14416da88446fb0a84fc
+东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1771976331&key=a9774cd68885b4b0614e10e491f80417
+上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1771976331&key=e8b90a7202b590907aa3e2902a287cc7
+上海外语,https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1771976331&key=70cc4798e40471e1aaaeff7f0409c9fb
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1771976331&key=c6c36c9145ec4a73fd020e4d134dba53
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1771976331&key=2f8d06146571122622d8b0ee07e01d52
+上海纪实人文,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1771976331&key=6198ed735ca64546ef62d01cc0cd875c
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1771976331&key=1ce65e4c2be68420db397f202936b61b
 广东,#genre#
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
@@ -2777,29 +2777,29 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 佛山顺德,http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
 佛山高明,http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8
 佛山三水,http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
-广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1771972808&key=be78ced19c42977e6cd91858b955a9d5
-广州新闻,https://live.lalifeier.eu.org/gztv/xinwen.m3u8?t=1771972808&key=50bdabf68d0d3efe9ed10c54aa59bca0
-广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1771972808&key=b8763c9d3d3efa074ac9dcc926f1f6e2
-广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1771972808&key=e413d70d1384f143f3ca32e9d7bfc107
-广州法治,https://live.lalifeier.eu.org/gztv/fazhi.m3u8?t=1771972808&key=ae3f78703b3578955d65a329ea571c42
-广州南国都市,https://live.lalifeier.eu.org/gztv/shenghuo.m3u8?t=1771972808&key=4738fca87c7f224879ac262478f6a820
-佛山综合,https://live.lalifeier.eu.org/fstv/fszh.m3u8?t=1771972808&key=218420f65f6efe59c8420bc543e3e3d1
-佛山影视,https://live.lalifeier.eu.org/fstv/fsys.m3u8?t=1771972808&key=9921b08eab641ae0d6fa46242501ce5e
-佛山公共,https://live.lalifeier.eu.org/fstv/fsgg.m3u8?t=1771972808&key=b4a010faae90cbec858b5c814a1262bb
-佛山南海,https://live.lalifeier.eu.org/fstv/fsnh.m3u8?t=1771972808&key=28ea36afba364ea8b194713ed426d035
-佛山顺德,https://live.lalifeier.eu.org/fstv/fssd.m3u8?t=1771972808&key=375b4594f485bb86e29491ce864496e4
-佛山高明,https://live.lalifeier.eu.org/fstv/fsgm.m3u8?t=1771972808&key=952cf41b7874b27fc12c603f1bf74440
-佛山三水,https://live.lalifeier.eu.org/fstv/fsss.m3u8?t=1771972808&key=81dd14ce7f9943d54887df8c75d88656
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1771972808&key=d8ef66656f805874fe4f19ff091551bc
-深圳娱乐,https://live.lalifeier.eu.org/sztv/szyl.m3u8?t=1771972808&key=3614377a0642b3974dc114d0ef2cf2a3
-深圳少儿,https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1771972808&key=c44f0fda091efeb562591fcc7fcdc76a
-深圳公共,https://live.lalifeier.eu.org/sztv/szgg.m3u8?t=1771972808&key=1939b3ff39ceaad0c73fd0961869a7c9
-深圳财经生活,https://live.lalifeier.eu.org/sztv/szcjsh.m3u8?t=1771972808&key=ef9cf9653a92937bb591cbadeb3f3156
-深圳电视剧,https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1771972808&key=2d03d089696300847fa79988b557614c
-宜和购物,https://live.lalifeier.eu.org/sztv/yhgw.m3u8?t=1771972808&key=1ce4d159e1449e4ea03fc850ae2fdbd5
-深圳都市,https://live.lalifeier.eu.org/sztv/szds.m3u8?t=1771972808&key=47dc6b20698ddfe28ebfd5382467f511
-深圳国际,https://live.lalifeier.eu.org/sztv/szgj.m3u8?t=1771972808&key=fde835d5bcc712862de65f48c608023d
-深圳移动,https://live.lalifeier.eu.org/sztv/szyd.m3u8?t=1771972808&key=9215958a2866a2ee5d1a4f6371ffae5a
+广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1771976331&key=9eefddd52ee28df3656ba0dd6a6af67a
+广州新闻,https://live.lalifeier.eu.org/gztv/xinwen.m3u8?t=1771976331&key=fc257fe97381b1166c095213e8776617
+广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1771976331&key=52c6a4732b1fc5ee555cde1c0a05bf60
+广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1771976331&key=7bf581f27408bae74a89d96086c68b1f
+广州法治,https://live.lalifeier.eu.org/gztv/fazhi.m3u8?t=1771976331&key=4b9b599e8a8e2a25aab2ee2920f11fd6
+广州南国都市,https://live.lalifeier.eu.org/gztv/shenghuo.m3u8?t=1771976331&key=9f97bce43d87f35c3a94c846ea1ff490
+佛山综合,https://live.lalifeier.eu.org/fstv/fszh.m3u8?t=1771976331&key=66bc04b8a597e40859615ec45139a196
+佛山影视,https://live.lalifeier.eu.org/fstv/fsys.m3u8?t=1771976331&key=8201f97855a657aa6290d61563ed691d
+佛山公共,https://live.lalifeier.eu.org/fstv/fsgg.m3u8?t=1771976331&key=0e5b9ca6cd97f3406f88310aefb57ead
+佛山南海,https://live.lalifeier.eu.org/fstv/fsnh.m3u8?t=1771976331&key=06aefe4d3605ee1442a4ae99f5d47b66
+佛山顺德,https://live.lalifeier.eu.org/fstv/fssd.m3u8?t=1771976331&key=bb0ca5f51068fba6477c524554e74b42
+佛山高明,https://live.lalifeier.eu.org/fstv/fsgm.m3u8?t=1771976331&key=db9917a5bd9fe21631148e3a0d55ede6
+佛山三水,https://live.lalifeier.eu.org/fstv/fsss.m3u8?t=1771976331&key=c275f2ad879c740edb4bed9e8f004cac
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1771976331&key=66bc6d86fc5c512f384ff963ffdc4c15
+深圳娱乐,https://live.lalifeier.eu.org/sztv/szyl.m3u8?t=1771976331&key=835c8dffdc350fd3c2aac18524773bb8
+深圳少儿,https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1771976331&key=bc210ee9a474793c6ac33100e42cdd39
+深圳公共,https://live.lalifeier.eu.org/sztv/szgg.m3u8?t=1771976331&key=48a21b7c79235ee59edd835209f19941
+深圳财经生活,https://live.lalifeier.eu.org/sztv/szcjsh.m3u8?t=1771976331&key=6d9f9306b80458a937c902d389afac89
+深圳电视剧,https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1771976331&key=153de402a39cba69a8967153f29b538c
+宜和购物,https://live.lalifeier.eu.org/sztv/yhgw.m3u8?t=1771976331&key=566b66f8fe2f1038753c4517b92bf4a9
+深圳都市,https://live.lalifeier.eu.org/sztv/szds.m3u8?t=1771976331&key=e9f815c9a05eeccdb97e53059b3bdb12
+深圳国际,https://live.lalifeier.eu.org/sztv/szgj.m3u8?t=1771976331&key=cfcc03868a6a4dd44e4eef55746f49cf
+深圳移动,https://live.lalifeier.eu.org/sztv/szyd.m3u8?t=1771976331&key=11d8c2a192d1d228befedd0dd77e7e96
 浙江,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -2890,16 +2890,16 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 江苏教育,http://litchi-play-encrypted-site.jstv.com/live/jsjy_live.m3u8?txSecret=53a036f85e9d6d24f49f90aa7ec57824&txTime=968075ef
 江苏国际,http://litchi-play-encrypted-site.jstv.com/live/jsgj_live.m3u8?txSecret=688ca6f6effdc028d3b47f0fa5443146&txTime=968075ef
 优漫卡通,http://litchi-play-encrypted-site.jstv.com/live/ymkt_live.m3u8?txSecret=80350cef68569ae2c1947f73a0c1203b&txTime=968075ef
-江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1771972808&key=56aac2cfb2eadafc28c3f0fd3c7aa6eb
-江苏城市,https://live.lalifeier.eu.org/jstv/jscs.m3u8?t=1771972808&key=04d457d05e3dafc2626be765bfef600f
-江苏新闻,https://live.lalifeier.eu.org/jstv/jsgg.m3u8?t=1771972808&key=d9ebf254943b61a3ab1b00a2598eb019
-江苏综艺,https://live.lalifeier.eu.org/jstv/jszy.m3u8?t=1771972808&key=89c02973ec3283bea7f6b66ca5d9f2f2
-江苏影视,https://live.lalifeier.eu.org/jstv/jsys.m3u8?t=1771972808&key=4848ade84a9fc26a35198127fa9f37c2
-江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1771972808&key=f9b266a54bc943de0bd0ae8a3cc14c1e
-江苏教育,https://live.lalifeier.eu.org/jstv/jsjy.m3u8?t=1771972808&key=019faadcc69e59f5931d9910b6cbdc5e
-江苏国际,https://live.lalifeier.eu.org/jstv/jsgj.m3u8?t=1771972808&key=c033a80af2ced859d24f99d7809bd0a9
-好享购物,https://live.lalifeier.eu.org/jstv/hxgw.m3u8?t=1771972808&key=da6612e08ffcf76e696fadcc8a74f628
-优漫卡通,https://live.lalifeier.eu.org/jstv/ymkt.m3u8?t=1771972808&key=0aa2b442fef0356b87efe6c6ce536411
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1771976331&key=b596b38a4408a3c3abf3defce7f25259
+江苏城市,https://live.lalifeier.eu.org/jstv/jscs.m3u8?t=1771976331&key=e9613678605f94706adfec6e5459b389
+江苏新闻,https://live.lalifeier.eu.org/jstv/jsgg.m3u8?t=1771976331&key=5924882152baa9cc8d3d58f241413fea
+江苏综艺,https://live.lalifeier.eu.org/jstv/jszy.m3u8?t=1771976331&key=90c3cebad7a2a7e308051f35f44e5c95
+江苏影视,https://live.lalifeier.eu.org/jstv/jsys.m3u8?t=1771976331&key=13db05f05110bdb707e1a48a85cfdcdd
+江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1771976331&key=855f29da628e20dafa180d3e16bc1750
+江苏教育,https://live.lalifeier.eu.org/jstv/jsjy.m3u8?t=1771976331&key=0fb10dd7a89e134afc1540a0fed147a3
+江苏国际,https://live.lalifeier.eu.org/jstv/jsgj.m3u8?t=1771976331&key=a763d5fbf8b6088bbba7b489eba8f714
+好享购物,https://live.lalifeier.eu.org/jstv/hxgw.m3u8?t=1771976331&key=19ca84ec583a0fe901a9161682d0fa03
+优漫卡通,https://live.lalifeier.eu.org/jstv/ymkt.m3u8?t=1771976331&key=517fe869ce05e47bbd7d27959244047d
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
@@ -2982,14 +2982,14 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 长沙政法,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn15.m3u8
 长沙女性,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn16.m3u8
 安徽,#genre#
-安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1771972808&key=2b6749bf3919f5e5c0db05945f549130
-安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1771972808&key=67294b4f21370bf83d993c2108d8d06e
-安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1771972808&key=4a8070ca6546f88c024800e1acdcbccc
-安徽影视,https://live.lalifeier.eu.org/ahtv/ahys.m3u8?t=1771972808&key=504e9a5d322141776d88b33e5f19fb9b
-安徽公共,https://live.lalifeier.eu.org/ahtv/ahgg.m3u8?t=1771972808&key=2c3d52cbfbf92dc62d420ae29fbd1bd6
-安徽农业科教,https://live.lalifeier.eu.org/ahtv/ahnykj.m3u8?t=1771972808&key=85d810933904bab4ac9178883a4baf69
-安徽国际,https://live.lalifeier.eu.org/ahtv/ahgj.m3u8?t=1771972808&key=86973406f622fc403cb6e6e7ec3d4519
-安徽移动,https://live.lalifeier.eu.org/ahtv/ahyd.m3u8?t=1771972808&key=a87960ad4adbf4ddc1050821ac2da66a
+安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1771976331&key=185a81e8512907cdd6d0363b42fa146a
+安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1771976331&key=038c97c28cfce8d0a35c2ce807e3921f
+安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1771976331&key=8ed4ad4402cb1f7818bc518a754e2554
+安徽影视,https://live.lalifeier.eu.org/ahtv/ahys.m3u8?t=1771976331&key=712b2830252dd6f4a8d5d2a3530702fc
+安徽公共,https://live.lalifeier.eu.org/ahtv/ahgg.m3u8?t=1771976331&key=fe9dd6624aa09b4b5f5efc498c5a4640
+安徽农业科教,https://live.lalifeier.eu.org/ahtv/ahnykj.m3u8?t=1771976331&key=326c2b196f4ce3a6222b2bf5ba7942ad
+安徽国际,https://live.lalifeier.eu.org/ahtv/ahgj.m3u8?t=1771976331&key=c5c89cc2d7c24d992301278bdc7d37b8
+安徽移动,https://live.lalifeier.eu.org/ahtv/ahyd.m3u8?t=1771976331&key=dd543857d1e6a2a39db52f02b6c33ddf
 安徽公共频道,http://live.ahcartv.dev.geek-zoo.cn/live/ggtv.m3u8?txSecret=642c057a63f8e7c6fcd0f236d3f24c69&txTime=6861F1F6
 安徽国际频道,http://live.ahcartv.dev.geek-zoo.cn/live/gjtv.m3u8?txSecret=e628bcb47d7741b3a60c6793b7295d84&txTime=6861F1F6
 安徽经济生活频道,http://live.ahcartv.dev.geek-zoo.cn/live/jjshtv.m3u8?txSecret=94e99c3721b25b3ac3d04be07d92fa3c&txTime=6861F1F6
@@ -3099,23 +3099,23 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 分宜TV,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
 井冈山1套,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
 河南,#genre#
-河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1771972808&key=28f8863c88118ebca26ba501948c96dd
-河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1771972808&key=e11a4b1b1740477f80343d5f23fb5d20
-河南民生,https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1771972808&key=929865b6d3b68cbf31bd5379348182d9
-河南法治,https://live.lalifeier.eu.org/hntv/hmfz.m3u8?t=1771972808&key=fbda58be2426a8fade8585d7a7f01965
-河南电视剧,https://live.lalifeier.eu.org/hntv/hndsj.m3u8?t=1771972808&key=8a3d81f8e04b3b731119f8f921d81b3f
-河南新闻,https://live.lalifeier.eu.org/hntv/hnxw.m3u8?t=1771972808&key=5824285067ac3fc4543925838ccd6459
-欢腾购物,https://live.lalifeier.eu.org/hntv/htgw.m3u8?t=1771972808&key=bf34ff6d15cdb31fbd64dae6793459d9
-河南公共,https://live.lalifeier.eu.org/hntv/hngg.m3u8?t=1771972808&key=8775297b4d7ee30a89aa464347e04d4f
-河南乡村,https://live.lalifeier.eu.org/hntv/hnxc.m3u8?t=1771972808&key=8ea6bc31cb108c028929e5667ca20a70
-河南国际,https://live.lalifeier.eu.org/hntv/hngj.m3u8?t=1771972808&key=c9e3d9c586fbce1ac539caea766e14bb
-河南梨园,https://live.lalifeier.eu.org/hntv/hnly.m3u8?t=1771972808&key=4068faee057a678431d26ed77345e2d8
-文物宝库,https://live.lalifeier.eu.org/hntv/wwbk.m3u8?t=1771972808&key=97f3b69fb89b4825fa9556327f40c15c
-武术世界,https://live.lalifeier.eu.org/hntv/wspd.m3u8?t=1771972808&key=012a1083c3887e138993d0940ac01ead
-睛彩中原,https://live.lalifeier.eu.org/hntv/jczy.m3u8?t=1771972808&key=c02f902d9e3bd629223b959f12525dc5
-移动戏曲,https://live.lalifeier.eu.org/hntv/ydxj.m3u8?t=1771972808&key=ddd24fe10b8d084d9b3b2d8eb7f59bb5
-象视界,https://live.lalifeier.eu.org/hntv/xsj.m3u8?t=1771972808&key=1d33d56f931cee31689429af65689d38
-国学频道,https://live.lalifeier.eu.org/hntv/gxpd.m3u8?t=1771972808&key=b6bb1d68b2dda7a6590399a366a0eed1
+河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1771976331&key=b2c2ecf7065b1e34bc84aefbaa7a7265
+河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1771976331&key=88d0f54aca40b70402225ef742016742
+河南民生,https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1771976331&key=a6f1456d48138afe05042b178ab3792d
+河南法治,https://live.lalifeier.eu.org/hntv/hmfz.m3u8?t=1771976331&key=7e8bb0ec43add88e67420ef5c7245323
+河南电视剧,https://live.lalifeier.eu.org/hntv/hndsj.m3u8?t=1771976331&key=d10df11a653bc1b2379728af6d8570e9
+河南新闻,https://live.lalifeier.eu.org/hntv/hnxw.m3u8?t=1771976331&key=5f4382485194b666dbff70dddb5ad995
+欢腾购物,https://live.lalifeier.eu.org/hntv/htgw.m3u8?t=1771976331&key=5e412a2b992cbb6beec4e5c9d4b988d4
+河南公共,https://live.lalifeier.eu.org/hntv/hngg.m3u8?t=1771976331&key=8431090f0eb8efdf275a28f08848ec50
+河南乡村,https://live.lalifeier.eu.org/hntv/hnxc.m3u8?t=1771976331&key=e4f1b8911193658e25cf04bdfe2f5087
+河南国际,https://live.lalifeier.eu.org/hntv/hngj.m3u8?t=1771976331&key=ea1719b24ea2da37ca18c15977744280
+河南梨园,https://live.lalifeier.eu.org/hntv/hnly.m3u8?t=1771976331&key=67276ee2ba052beada9b522820d136ee
+文物宝库,https://live.lalifeier.eu.org/hntv/wwbk.m3u8?t=1771976331&key=5c5740ea10aa7240dd99febb884c7fce
+武术世界,https://live.lalifeier.eu.org/hntv/wspd.m3u8?t=1771976331&key=882b03e89c21873bdb223f855688ea15
+睛彩中原,https://live.lalifeier.eu.org/hntv/jczy.m3u8?t=1771976331&key=47c7662a7baf8b18281678c73e63de72
+移动戏曲,https://live.lalifeier.eu.org/hntv/ydxj.m3u8?t=1771976331&key=51816b8ad813fdea2201b7af44347a5e
+象视界,https://live.lalifeier.eu.org/hntv/xsj.m3u8?t=1771976331&key=a268198ac51f77c871f3c2d259ae7ba7
+国学频道,https://live.lalifeier.eu.org/hntv/gxpd.m3u8?t=1771976331&key=8b9f4f14cac2ac1615395d5ded727102
 郑州新闻综合,http://live3-new.zztv.tv/xwzh/playlist.m3u8
 郑州商都,http://live3-new.zztv.tv/sdpd/playlist.m3u8
 郑州文体旅游,http://live3-new.zztv.tv/wtly/playlist.m3u8
@@ -3130,21 +3130,21 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 河北影视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1963555862&k=c1c7d65caa03f1cbd6c9585b5d840534
 河北少儿,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1963555882&k=3b5e2390e33ef21bf9697e4d1811e261
 河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1963555917&k=fc9fcfabd123ab877e24ee9a0ef0c862
-河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1771972808&key=d988b1d11f4385eeddfecd9beb07eaaf
-河北经济,https://live.lalifeier.eu.org/hebtv/hbjj.m3u8?t=1771972808&key=6e1da9c9ea17eee1623af63ea49066ad
-河北农民,https://live.lalifeier.eu.org/hebtv/hbnm.m3u8?t=1771972808&key=b0339612b539a0737f0d7138686e5eed
-河北都市,https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1771972808&key=4ee54fb194827540a80e465b8ce3d2a7
-河北影视,https://live.lalifeier.eu.org/hebtv/hbys.m3u8?t=1771972808&key=9435a9c6c8c66a2c5810470d66ba1883
-少儿科教,https://live.lalifeier.eu.org/hebtv/hbsekj.m3u8?t=1771972808&key=b37dccd1cb6e962836ea25b14d238f84
-河北公共,https://live.lalifeier.eu.org/hebtv/hbgg.m3u8?t=1771972808&key=5af1a4dcc1669641d6a0607385f5386e
-三佳购物,https://live.lalifeier.eu.org/hebtv/hbsjgw.m3u8?t=1771972808&key=87782985eaa2cf9fa6311c958e87c1c9
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1771976331&key=7de109d78c81191f280ec4941c24339b
+河北经济,https://live.lalifeier.eu.org/hebtv/hbjj.m3u8?t=1771976331&key=de697c9e8bcd39147f6ae0427b06f6a0
+河北农民,https://live.lalifeier.eu.org/hebtv/hbnm.m3u8?t=1771976331&key=14ccaf55acedcb66d44e7c0e6e00bae4
+河北都市,https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1771976331&key=9bb6831e0b9c95a19a0a03ac94d16abd
+河北影视,https://live.lalifeier.eu.org/hebtv/hbys.m3u8?t=1771976331&key=06efb49fc790dc26d0be1aca3c2716bd
+少儿科教,https://live.lalifeier.eu.org/hebtv/hbsekj.m3u8?t=1771976331&key=1492bd672d2e4aa27239df6c065683ab
+河北公共,https://live.lalifeier.eu.org/hebtv/hbgg.m3u8?t=1771976331&key=bd370ce544442c32bbb0b468f6bc1074
+三佳购物,https://live.lalifeier.eu.org/hebtv/hbsjgw.m3u8?t=1771976331&key=67ae00e1d8d7e1141d96846b46f12b30
 云南,#genre#
-云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1771972808&key=baf62a0f68ce7caac543c941d72b5b60
-云南都市,https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1771972808&key=f14f89a7f0f887ce750b17145743ef40
-云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1771972808&key=2412848b833fe0e267ced83711dde8f1
-康旅频道,https://live.lalifeier.eu.org/yntv/ynkl.m3u8?t=1771972808&key=2a338429dd3872c9b1fa55a3bd2403ec
-澜湄国际,https://live.lalifeier.eu.org/yntv/yngj.m3u8?t=1771972808&key=05d0ce1b55346f6f33aa378c35f43823
-云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1771972808&key=b5fba860118e8241db047b404138c92a
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1771976331&key=e2b12d97c602eaa908ffd753946350a3
+云南都市,https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1771976331&key=aa13d43b42d9256ad3c073d333e4257a
+云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1771976331&key=a45b5213db8a20beb6b65afdeaee4915
+康旅频道,https://live.lalifeier.eu.org/yntv/ynkl.m3u8?t=1771976331&key=cf0c843005c759e672449d73ad00b7df
+澜湄国际,https://live.lalifeier.eu.org/yntv/yngj.m3u8?t=1771976331&key=9347742225bbb71d7697b0be71cc5644
+云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1771976331&key=74bd30fdeb14258135b2b8ec67b0e901
 贵州,#genre#
 贵州卫视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
 贵州公共,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH02_lo.m3u8
@@ -3155,20 +3155,20 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 贵州经济,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH09_lo.m3u8
 贵州移动电视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
 贵州家有购物,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CHJY_lo.m3u8
-贵州卫视,https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1771972808&key=d560cdf9bd1f32c499be41ff09607b6e
-贵州公共,https://live.lalifeier.eu.org/gzstv/gzgg.m3u8?t=1771972808&key=80b666281a589dd1103d60e7974f58cc
-贵州影视,https://live.lalifeier.eu.org/gzstv/gzwy.m3u8?t=1771972808&key=72019140cf74d8565630a5f5b38af4d5
-贵州生活,https://live.lalifeier.eu.org/gzstv/gzsh.m3u8?t=1771972808&key=12875c347f226fa8a83bd48f45d72945
-贵州法制,https://live.lalifeier.eu.org/gzstv/gzfz.m3u8?t=1771972808&key=98128dd230eb81ea354c946d1b37654f
-贵州科教,https://live.lalifeier.eu.org/gzstv/gzkj.m3u8?t=1771972808&key=5d4d4822fc6248448b8b97205c13d6e5
-贵州经济,https://live.lalifeier.eu.org/gzstv/gzjj.m3u8?t=1771972808&key=cffdcc0621f17611047477e1d19e6673
-贵州家有购物,https://live.lalifeier.eu.org/gzstv/gzjygw.m3u8?t=1771972808&key=538d6eceef7b15ee27d3b22f24125c81
-贵州移动,https://live.lalifeier.eu.org/gzstv/gzyd.m3u8?t=1771972808&key=adf7eb699c7ef1fef645b18a8b742819
-贵州综合广播,https://live.lalifeier.eu.org/gzstv/fm946.m3u8?t=1771972808&key=6234316a06744b909367127fcbfd64e9
-贵州经济广播,https://live.lalifeier.eu.org/gzstv/fm989.m3u8?t=1771972808&key=78fb2c8f1401e3e438254c3aee98b7d5
-贵州音乐广播,https://live.lalifeier.eu.org/gzstv/fm916.m3u8?t=1771972808&key=87837d461c32c7ddbff43e89e33e95ae
-贵州交通广播,https://live.lalifeier.eu.org/gzstv/fm952.m3u8?t=1771972808&key=acaa57a54dd46a98f1ed365ac3b0351f
-贵州旅游广播,https://live.lalifeier.eu.org/gzstv/fm972.m3u8?t=1771972808&key=29b541a9bb5945c4d18f665b785692ce
+贵州卫视,https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1771976331&key=9f33bed6416be0b9909cffeacc3a235f
+贵州公共,https://live.lalifeier.eu.org/gzstv/gzgg.m3u8?t=1771976331&key=5ab5d0a3265b84e1a9670677b1cac709
+贵州影视,https://live.lalifeier.eu.org/gzstv/gzwy.m3u8?t=1771976331&key=e85e4c9584023b3079048c3af366f7ee
+贵州生活,https://live.lalifeier.eu.org/gzstv/gzsh.m3u8?t=1771976331&key=8028a99be53be0daac82bfdad016a24c
+贵州法制,https://live.lalifeier.eu.org/gzstv/gzfz.m3u8?t=1771976331&key=f768b3ad09091e69bf061737ae713b7a
+贵州科教,https://live.lalifeier.eu.org/gzstv/gzkj.m3u8?t=1771976331&key=bbaa5ecbfea681de0a822ae38a5c1016
+贵州经济,https://live.lalifeier.eu.org/gzstv/gzjj.m3u8?t=1771976331&key=f8236dabf6935a2bb711ce033b223530
+贵州家有购物,https://live.lalifeier.eu.org/gzstv/gzjygw.m3u8?t=1771976331&key=be6062e05643d58730f8647fcfd10806
+贵州移动,https://live.lalifeier.eu.org/gzstv/gzyd.m3u8?t=1771976331&key=8a2a850bfb5cb21be353be7300ef04d4
+贵州综合广播,https://live.lalifeier.eu.org/gzstv/fm946.m3u8?t=1771976331&key=416450b888299b623925c0bf0bc6147c
+贵州经济广播,https://live.lalifeier.eu.org/gzstv/fm989.m3u8?t=1771976331&key=eaf6b7f85611996711a649d9b4a5801c
+贵州音乐广播,https://live.lalifeier.eu.org/gzstv/fm916.m3u8?t=1771976331&key=0378b8d08a600d8abf565ff93cb1cf8c
+贵州交通广播,https://live.lalifeier.eu.org/gzstv/fm952.m3u8?t=1771976331&key=652768706fc95a3469d73953ca701d7b
+贵州旅游广播,https://live.lalifeier.eu.org/gzstv/fm972.m3u8?t=1771976331&key=f7cf6d9c64fadc69b29069c7bfc452e8
 山西,#genre#
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
@@ -3176,12 +3176,12 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1771972808&key=7c424b79addbf1521410a7b1c1d19512
-山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1771972808&key=3db9dbbd18ba6870aa11ce0dad9788aa
-山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1771972808&key=5ec42dfb0269d41a543746c9ff7f1fc1
-山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1771972808&key=c588ee6c508e5c1c40c3ed723b014066
-山西影视,https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1771972808&key=5f9aa4470926ff68d6995404ce282613
-山西黄河,https://live.lalifeier.eu.org/sxrtv/sxhh.m3u8?t=1771972808&key=6dd8ef5d4299c872bf77445cee00f311
+山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1771976331&key=7cd253f73fc74b2b8846d9eb97aec9d0
+山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1771976331&key=ac1ebd0c2fa5ac4165dc354a45f32b42
+山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1771976331&key=aaa144a59c6bf8b5ee48b76b16396bb6
+山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1771976331&key=35ba9442caa551d6bbdac1e0e846c249
+山西影视,https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1771976331&key=7805051160d38955c602095efb1c03df
+山西黄河,https://live.lalifeier.eu.org/sxrtv/sxhh.m3u8?t=1771976331&key=1fd5f4bd847753455a0ef62e3d63e731
 海南,#genre#
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
@@ -3234,14 +3234,14 @@ BTV国际频道,http://sweetown.fun:4000/rtp/239.3.1.235:8000
 宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 吉林,#genre#
-吉林卫视,https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1771972808&key=cbe145d0ce14c7d1192e9480ccea1fda
-吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1771972808&key=994698bc851525aa0b0eba4b24f3a2a8
-吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1771972808&key=2eb3d8012b79cab919c93ffa7dfa5a8e
-吉林影视,https://live.lalifeier.eu.org/jlntv/jlys.m3u8?t=1771972808&key=5cb959aa4c5ecc1fbc81d1f395ab4da2
-吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1771972808&key=166877c52727a4fc2f4ddfb07dfe8bc6
-吉林公共新闻,https://live.lalifeier.eu.org/jlntv/jlggxw.m3u8?t=1771972808&key=47ddf07618ecdcb918c24bc15748e0f4
-吉林综艺文化,https://live.lalifeier.eu.org/jlntv/jlzywh.m3u8?t=1771972808&key=9f715ceddcdaab50657c844ddb5c55ee
-东北戏曲,https://live.lalifeier.eu.org/jlntv/dbxq.m3u8?t=1771972808&key=c34f22af56f425defa5d7cd8ed05bd9e
+吉林卫视,https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1771976331&key=9ce4b30d4add45a80bf5d283bfceec93
+吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1771976331&key=7f99a9745ff67837b5bf6b56dc84687e
+吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1771976331&key=da0f138883de0a81064b528698fee63c
+吉林影视,https://live.lalifeier.eu.org/jlntv/jlys.m3u8?t=1771976331&key=61bd0ae878b5ae7c1b402e6862eab42d
+吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1771976331&key=d15e831ea1631aecbbbc2fc80b57edcc
+吉林公共新闻,https://live.lalifeier.eu.org/jlntv/jlggxw.m3u8?t=1771976331&key=51f87ba5d6f2f13734c0fea4253930ac
+吉林综艺文化,https://live.lalifeier.eu.org/jlntv/jlzywh.m3u8?t=1771976331&key=f60467c9137778fcc1c05ce5613c8ef0
+东北戏曲,https://live.lalifeier.eu.org/jlntv/dbxq.m3u8?t=1771976331&key=b93ccc49539c91921197373876ab44f9
 长春综合,http://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
 长春文旅体育,http://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
 长春市民生活,http://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
