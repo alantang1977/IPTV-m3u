@@ -35,7 +35,7 @@
                 <h1>
                     <span class="cf-error-type" data-translate="error">Error</span>
                     <span class="cf-error-code">1101</span>
-                    <small class="heading-ray-id">Ray ID: 9d3cda565fe7fa72 &bull; 2026-02-26 04:56:00 UTC</small>
+                    <small class="heading-ray-id">Ray ID: 9d3d3bd28d4d9837 &bull; 2026-02-26 06:02:30 UTC</small>
                 </h1>
                 <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
             </div><!-- /.header -->
@@ -59,12 +59,12 @@
     
             <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3cda565fe7fa72</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3d3bd28d4d9837</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.225.25.52</span>
+        <span class="hidden" id="cf-footer-ip">145.132.102.96</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -119,7 +119,7 @@
                 <h1>
                     <span class="cf-error-type" data-translate="error">Error</span>
                     <span class="cf-error-code">1101</span>
-                    <small class="heading-ray-id">Ray ID: 9d3cda817dfd1a1f &bull; 2026-02-26 04:56:03 UTC</small>
+                    <small class="heading-ray-id">Ray ID: 9d3d3be7cba939c0 &bull; 2026-02-26 06:02:35 UTC</small>
                 </h1>
                 <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
             </div><!-- /.header -->
@@ -143,12 +143,12 @@
     
             <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3cda817dfd1a1f</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3d3be7cba939c0</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.225.25.52</span>
+        <span class="hidden" id="cf-footer-ip">145.132.102.96</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -203,7 +203,7 @@
                 <h1>
                     <span class="cf-error-type" data-translate="error">Error</span>
                     <span class="cf-error-code">1101</span>
-                    <small class="heading-ray-id">Ray ID: 9d3cda926c4d3208 &bull; 2026-02-26 04:56:05 UTC</small>
+                    <small class="heading-ray-id">Ray ID: 9d3d3c07d915efbc &bull; 2026-02-26 06:02:37 UTC</small>
                 </h1>
                 <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
             </div><!-- /.header -->
@@ -227,12 +227,12 @@
     
             <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3cda926c4d3208</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3d3c07d915efbc</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.225.25.52</span>
+        <span class="hidden" id="cf-footer-ip">145.132.102.96</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -289,7 +289,7 @@
                 <h1>
                     <span class="cf-error-type" data-translate="error">Error</span>
                     <span class="cf-error-code">1101</span>
-                    <small class="heading-ray-id">Ray ID: 9d3cdab28d9c30b3 &bull; 2026-02-26 04:56:09 UTC</small>
+                    <small class="heading-ray-id">Ray ID: 9d3d3c36efe90bfd &bull; 2026-02-26 06:02:47 UTC</small>
                 </h1>
                 <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
             </div><!-- /.header -->
@@ -313,12 +313,12 @@
     
             <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3cdab28d9c30b3</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3d3c36efe90bfd</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.225.25.52</span>
+        <span class="hidden" id="cf-footer-ip">145.132.102.96</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -373,7 +373,7 @@
                 <h1>
                     <span class="cf-error-type" data-translate="error">Error</span>
                     <span class="cf-error-code">1101</span>
-                    <small class="heading-ray-id">Ray ID: 9d3cdabad972709c &bull; 2026-02-26 04:56:11 UTC</small>
+                    <small class="heading-ray-id">Ray ID: 9d3d3c51bc4c9837 &bull; 2026-02-26 06:02:48 UTC</small>
                 </h1>
                 <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
             </div><!-- /.header -->
@@ -397,12 +397,12 @@
     
             <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3cdabad972709c</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3d3c51bc4c9837</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.225.25.52</span>
+        <span class="hidden" id="cf-footer-ip">145.132.102.96</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -457,7 +457,7 @@
                 <h1>
                     <span class="cf-error-type" data-translate="error">Error</span>
                     <span class="cf-error-code">1101</span>
-                    <small class="heading-ray-id">Ray ID: 9d3cdac16f5383bf &bull; 2026-02-26 04:56:12 UTC</small>
+                    <small class="heading-ray-id">Ray ID: 9d3d3c54ae50c980 &bull; 2026-02-26 06:02:51 UTC</small>
                 </h1>
                 <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
             </div><!-- /.header -->
@@ -481,12 +481,12 @@
     
             <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3cdac16f5383bf</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3d3c54ae50c980</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.225.25.52</span>
+        <span class="hidden" id="cf-footer-ip">145.132.102.96</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -505,87 +505,186 @@
   </script> 
 </body>
 </html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Worker threw exception | live.lalifeier.eu.org | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0620dc7f-dbdf-4c84-b640-f18185b75301-profile_image-50x50.png",group-title="「Twitch」星秀",小九九丶
+https://live.lalifeier.eu.org/twitch/yrchang_.m3u8?t=1772085775&key=d7e5427a0c87acd5c913013befee1eff
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f5a8c748-3194-47e4-87d4-1b5bf9b10442-profile_image-50x50.png",group-title="「Twitch」星秀",kyo1984123
+https://live.lalifeier.eu.org/twitch/kyo1984123.m3u8?t=1772085775&key=4b432f0c0595bc1b932a07150d48a597
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b7304e11-2c97-4e04-b1a2-f820fe7d0549-profile_image-50x50.png",group-title="「Twitch」星秀",狂暴小建
+https://live.lalifeier.eu.org/twitch/a541021.m3u8?t=1772085775&key=de7a5c8da1039cff90839a24b5450b8d
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b97f1b2e-5532-4fee-8879-5e6e6eb502d8-profile_image-50x50.png",group-title="「Twitch」星秀",小舞
+https://live.lalifeier.eu.org/twitch/nein1203.m3u8?t=1772085775&key=296ea674a7c6fea8183e13ba52ce381e
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ea6eea10-2fda-4537-849c-686b6d54ce9d-profile_image-50x50.png",group-title="「Twitch」星秀",綠寶
+https://live.lalifeier.eu.org/twitch/z60411.m3u8?t=1772085775&key=4cccab3315ca50158740f9a490a089dd
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6a030404-921f-4178-92de-c01c680965c0-profile_image-50x50.png",group-title="「Twitch」星秀",依梨
+https://live.lalifeier.eu.org/twitch/lebaby0v0.m3u8?t=1772085775&key=c3f01c09afd5db24f21a324b6ee13d19
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4db65788-9673-43cb-9fe2-b9e2503991fb-profile_image-50x50.png",group-title="「Twitch」星秀",帕蘿妮
+https://live.lalifeier.eu.org/twitch/paroniie.m3u8?t=1772085775&key=5347dc1419a415d2f49b9eca6b50aba6
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/508283c8-af6b-42c4-bd99-0f295df09647-profile_image-50x50.png",group-title="「Twitch」星秀",蕭政銘
+https://live.lalifeier.eu.org/twitch/m989876525.m3u8?t=1772085775&key=9bf8c9b35d17c6a9310d7ebab30a5a72
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f6559274-7a92-4151-8fa3-9d8db3925ad2-profile_image-50x50.png",group-title="「Twitch」星秀",肉乙
+https://live.lalifeier.eu.org/twitch/zoe_0601.m3u8?t=1772085775&key=ef79e65125799911f1924239dcab601c
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4dbcf421-352b-45fb-959f-602a98abb483-profile_image-50x50.png",group-title="「Twitch」星秀",冠賢
+https://live.lalifeier.eu.org/twitch/gunguno.m3u8?t=1772085775&key=b1002b1bc3a3b1be230044482e9c3cbe
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/23aed98d-636d-4cd6-ac64-12b04cb30859-profile_image-50x50.png",group-title="「Twitch」星秀",若白ルオバイ
+https://live.lalifeier.eu.org/twitch/snowwolf0627.m3u8?t=1772085775&key=665edee2e5326f400834a7842f5b147e
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8358646b-f712-4396-a655-f506ebc2cb2e-profile_image-50x50.png",group-title="「Twitch」星秀",相思櫻花羽
+https://live.lalifeier.eu.org/twitch/thumbe18755.m3u8?t=1772085775&key=cab794a3c4943a4e5b04b402d078e22c
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e0ac8a81-3329-433d-8a92-b350bdec3b13-profile_image-50x50.png",group-title="「Twitch」星秀",黑糖こくとう
+https://live.lalifeier.eu.org/twitch/kokutou8920.m3u8?t=1772085775&key=f76870d6bc14a6c3878d2959272309f5
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1a44e963-364e-41d7-8375-f5144cfec4ce-profile_image-50x50.png",group-title="「Twitch」星秀",皮立
+https://live.lalifeier.eu.org/twitch/pz_duoduo.m3u8?t=1772085775&key=721f78bb162a8709cc03ea3f0361e8de
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/851c3fa0-dded-4a7d-800b-1db78f9c12ed-profile_image-50x50.png",group-title="「Twitch」星秀",量產型猫飼步歌貳貳機
+https://live.lalifeier.eu.org/twitch/nekokaifuka.m3u8?t=1772085775&key=e316e49c6c92a87f662a99681857c169
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6c1c9336-ba9c-4e51-ae35-3a6b1fd165ef-profile_image-50x50.png",group-title="「Twitch」星秀",卡爾比
+https://live.lalifeier.eu.org/twitch/karupinowhere.m3u8?t=1772085775&key=a91543a91ff869da1c612db88c50accd
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4339d036-fa90-4884-a9d3-e9d20d3baaf7-profile_image-50x50.png",group-title="「Twitch」星秀",露娜努娜
+https://live.lalifeier.eu.org/twitch/luna_15o.m3u8?t=1772085775&key=1ad78f81beccfb0d1b2ae4ea2f3f32f0
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8d9d5d45-894f-4e43-b154-a545475c38ab-profile_image-50x50.png",group-title="「Twitch」星秀",海王ユ魚
+https://live.lalifeier.eu.org/twitch/ufish_uwu.m3u8?t=1772085775&key=6530e47366740921ce204cfa90a76fa5
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/17be194f-2fba-4c43-95b3-bf9402a94e31-profile_image-50x50.png",group-title="「Twitch」星秀",木棉花官方頻道
+https://live.lalifeier.eu.org/twitch/muse_tw.m3u8?t=1772085775&key=40a771d42f4a76dc61e6a03cd90aad05
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b6301604-d689-4108-9b0a-5d1954e76e39-profile_image-50x50.png",group-title="「Twitch」星秀",芓芓_
+https://live.lalifeier.eu.org/twitch/violetkitty_ttv.m3u8?t=1772085775&key=684e9691524e76a494e4f7cf41585637
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f22220808-profile_image-5b57573dd9170468-50x50.jpeg",group-title="「Twitch」星秀",花蓮
+https://live.lalifeier.eu.org/twitch/f22220808.m3u8?t=1772085775&key=09ec9e52a88cc7498d3b624767272da5
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e6722bb3-93c7-49d6-b0d9-7aae4727b22f-profile_image-50x50.png",group-title="「Twitch」星秀",奶加
+https://live.lalifeier.eu.org/twitch/nanakyuu301.m3u8?t=1772085775&key=9669ec028fb24579e364bcb967833c94
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/19d10d68-63d3-462f-bb05-c6c54eff5bff-profile_image-50x50.png",group-title="「Twitch」星秀",阿米安
+https://live.lalifeier.eu.org/twitch/anmian__.m3u8?t=1772085775&key=bbf23cae4a266f4a3ca55be7cfe902fe
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a01917ed-b6a4-4fcf-9c83-349a6ba8b0ab-profile_image-50x50.png",group-title="「Twitch」星秀",紫浪
+https://live.lalifeier.eu.org/twitch/no520reason.m3u8?t=1772085775&key=095fd207a96b7c8794e6ce0b64941d47
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e967823b-75d7-4f94-9413-0fd35d5ffe79-profile_image-50x50.png",group-title="「Twitch」星秀",詩雨蔻達
+https://live.lalifeier.eu.org/twitch/sh1uc0da.m3u8?t=1772085775&key=f9282d7b1442f0ffdf394e4143aed893
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/759ef840-5172-4e91-adb4-28f2ca230eab-profile_image-50x50.png",group-title="「Twitch」星秀",可可脆片蜜糖波堤
+https://live.lalifeier.eu.org/twitch/hanidonatsu.m3u8?t=1772085775&key=35c098b4c73819c8cd3b077f97614ace
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a37b4745-3571-478d-aab1-5a230125165f-profile_image-50x50.png",group-title="「Twitch」星秀",秋月月
+https://live.lalifeier.eu.org/twitch/renewed0703.m3u8?t=1772085775&key=7860d4ff6e314c9f7444a198dfdba4d5
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c84bf72d-b873-42a1-9d54-585f84de3100-profile_image-50x50.jpg",group-title="「Twitch」星秀",老婆
+https://live.lalifeier.eu.org/twitch/s73225200.m3u8?t=1772085775&key=094844e3dd649c960cee6798b6f51b5d
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e3b63db3-a97b-4d1f-ab5a-8766c60c88a4-profile_image-50x50.png",group-title="「Twitch」星秀",小漾漾
+https://live.lalifeier.eu.org/twitch/little_www.m3u8?t=1772085775&key=265f4fc73084087721926b0b7b9320bc
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/09a9202a-19ba-49b8-8818-734db2e7e785-profile_image-50x50.png",group-title="「Twitch」星秀",漢堡大帥哥
+https://live.lalifeier.eu.org/twitch/winerburger.m3u8?t=1772085775&key=6cf7ee02fea3f15e71da2dfeef2ef6bf
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d6b30fb5-b245-4916-a710-5c33f910ecc2-profile_image-50x50.jpeg",group-title="「Twitch」星秀",蛇ノ目禰
+https://live.lalifeier.eu.org/twitch/janomene.m3u8?t=1772085775&key=80cf70619d73ebd6fa84d84d96c369b0
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-50x50.png",group-title="「Twitch」星秀",老哎
+https://live.lalifeier.eu.org/twitch/yawara30.m3u8?t=1772085775&key=74847181b64245526c2d2a05c6164746
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5b3c36ec-4396-4e32-a7fc-ec40284c642e-profile_image-50x50.png",group-title="「Twitch」星秀",酪梨冰塊
+https://live.lalifeier.eu.org/twitch/nn0214555.m3u8?t=1772085775&key=750b95a84c008560b9cfe3d9fd9fd27d
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ef8d7776-e72c-4e4e-9acf-0a7392e2f74f-profile_image-50x50.png",group-title="「Twitch」星秀",dada413032
+https://live.lalifeier.eu.org/twitch/dada413032.m3u8?t=1772085775&key=537002b059f904e3473098e35b68fd30
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/70ec6b0b-c6a4-43b7-a4dd-457ea5c9ee71-profile_image-50x50.png",group-title="「Twitch」星秀",阿垠
+https://live.lalifeier.eu.org/twitch/crocodile082.m3u8?t=1772085775&key=0582e706afb649e32c5f7f28dce8e7d8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2e03a797-7d62-444e-b205-80fdc5656422-profile_image-50x50.png",group-title="「Twitch」星秀",稲木こっぱ
+https://live.lalifeier.eu.org/twitch/inagikoppa.m3u8?t=1772085775&key=f58c75bb804b1d72c7b8e1b22caa9aac
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f396d785-8227-4ae5-a381-709df227643f-profile_image-50x50.png",group-title="「Twitch」星秀",米_茶
+https://live.lalifeier.eu.org/twitch/rice_teaouo.m3u8?t=1772085775&key=6aae371713ad9956c13c1ec69690ada1
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/09560c70-f574-4d20-bc1c-94e16d63dfbc-profile_image-50x50.png",group-title="「Twitch」星秀",兩津1003
+https://live.lalifeier.eu.org/twitch/c871003.m3u8?t=1772085775&key=6111d0f8706d70a249a27acce0ddf8da
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/de550ea2-bce6-4949-823a-102f509a080f-profile_image-50x50.png",group-title="「Twitch」星秀",花狸鼠
+https://live.lalifeier.eu.org/twitch/chipmunk331.m3u8?t=1772085775&key=176ac5b61db5ae6e9b406e5f371ca2e1
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9b2469a9-7ceb-4a5d-9168-79e952421b16-profile_image-50x50.png",group-title="「Twitch」星秀",烏梅うめ
+https://live.lalifeier.eu.org/twitch/umesatuki.m3u8?t=1772085775&key=77b710c365c6275640b1728a3a0d30c0
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8067192a-41db-4de9-a93c-1f38f67bdda1-profile_image-50x50.png",group-title="「Twitch」星秀",伊尔謎
+https://live.lalifeier.eu.org/twitch/sakumaillumi.m3u8?t=1772085775&key=70568e649c1ef70a9c73e8c816860c97
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a66f78a3-a66e-418e-9b1f-7eaa987db7a9-profile_image-50x50.png",group-title="「Twitch」星秀",四恩
+https://live.lalifeier.eu.org/twitch/kartd0121684.m3u8?t=1772085775&key=f9c36928a8612ff8798430545ddef87e
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2a802398-a1d4-4823-8ad1-a108583f6002-profile_image-50x50.png",group-title="「Twitch」星秀",伊努不要再亂改名
+https://live.lalifeier.eu.org/twitch/inu24forever.m3u8?t=1772085775&key=c8aa80b50a86ffa6a1c64f7b5c9fd27d
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9f0757ed-e75b-46f3-9011-688edaa78e7e-profile_image-50x50.png",group-title="「Twitch」星秀",小小柚子村長
+https://live.lalifeier.eu.org/twitch/yuzuame.m3u8?t=1772085775&key=ffb13dd53029a15cdedc7e6b3f678014
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/50657098-ba8d-4325-b034-492107e78b65-profile_image-50x50.png",group-title="「Twitch」星秀",爾哈
+https://live.lalifeier.eu.org/twitch/lahassan44.m3u8?t=1772085775&key=e2c3bd6bbe81c2c9349a9dab4d512a48
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/156f51c3-4d82-4d66-8f87-fbc0f70a75a2-profile_image-50x50.png",group-title="「Twitch」星秀",飯糰舒芙蕾
+https://live.lalifeier.eu.org/twitch/fantuan_tl.m3u8?t=1772085775&key=d235d3b09b13576d755acd9351de51d3
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d28f985a-5345-4a4e-95c6-bb33ccc731ac-profile_image-50x50.jpeg",group-title="「Twitch」星秀",ななみ露露
+https://live.lalifeier.eu.org/twitch/nanami_ruru.m3u8?t=1772085775&key=e81148fef85d73f6027db3b4336120c1
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d3dafd40-3f22-4a41-98fe-1f7eaac7a046-profile_image-50x50.png",group-title="「Twitch」星秀",欸布可
+https://live.lalifeier.eu.org/twitch/abook984.m3u8?t=1772085775&key=6525c92bf555a2d9545154e76de6fe54
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/01f3babe-4253-40be-ac2d-139c53920036-profile_image-50x50.png",group-title="「Twitch」星秀",小沐依
+https://live.lalifeier.eu.org/twitch/moonou1234.m3u8?t=1772085775&key=7ef1d4fda0af61755b3158766c85d386
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/624b6d81-6ac3-4f40-abad-3567a475b9bf-profile_image-50x50.png",group-title="「Twitch」星秀",黑翎時光屋
+https://live.lalifeier.eu.org/twitch/blackfeather0_o.m3u8?t=1772085775&key=8509edb0b2c6a45372a83e8e97686f44
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7f7cf519-f782-437f-922a-a141dec3f8e0-profile_image-50x50.png",group-title="「Twitch」星秀",品學
+https://live.lalifeier.eu.org/twitch/ronnndd.m3u8?t=1772085775&key=abefb552df467d6c0fc64f1f333b5867
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9e18f90f-ad82-4cff-acaa-b8de5824f2e1-profile_image-50x50.png",group-title="「Twitch」星秀",莫米亞
+https://live.lalifeier.eu.org/twitch/miamo818.m3u8?t=1772085775&key=4abffa2ab052405a6bf92d001be6e269
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/15c02b79-616a-44e4-8887-72b69ad2ab6a-profile_image-50x50.png",group-title="「Twitch」星秀",菜菜子03
+https://live.lalifeier.eu.org/twitch/achi1003.m3u8?t=1772085775&key=4efb521e140a92d70335a11fff1bce97
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9c92d130-18c0-46e2-bf01-300936de50cd-profile_image-50x50.png",group-title="「Twitch」星秀",沙拉醬
+https://live.lalifeier.eu.org/twitch/mimei_1101.m3u8?t=1772085775&key=11ac4d0933a6e1ca4d9f5f76e9349a42
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b78621bc-7c4a-4808-84e0-4ee1e8b9f56b-profile_image-50x50.png",group-title="「Twitch」星秀",修電腦的奇異果
+https://live.lalifeier.eu.org/twitch/me322kimo.m3u8?t=1772085775&key=db0934efc048e956dc20eeb61af08809
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/02733b1e-ce4a-433e-9368-b32a5962ad67-profile_image-50x50.png",group-title="「Twitch」星秀",4瘋瘋
+https://live.lalifeier.eu.org/twitch/fengfeng0409.m3u8?t=1772085775&key=e09f45cf08fc6832632ee01155decee0
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dc336f52-f705-4b33-838d-e8ce4e92f6a4-profile_image-50x50.png",group-title="「Twitch」星秀",漣玥
+https://live.lalifeier.eu.org/twitch/lenyueh.m3u8?t=1772085775&key=3487b689acc5a15424292567e73f61a6
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-50x50.png",group-title="「Twitch」星秀",OnAir24H
+https://live.lalifeier.eu.org/twitch/onair24h.m3u8?t=1772085775&key=679c06de90561dfd9decd568bbbb6889
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bb646a92-8f0b-4ff9-be94-b038f2547451-profile_image-50x50.png",group-title="「Twitch」星秀",街頭焰狼
+https://live.lalifeier.eu.org/twitch/yanlangblaze.m3u8?t=1772085775&key=ef4f6c5797bbd6e91ee483d99e514308
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6103dd0c-9050-4b22-9937-676514fff394-profile_image-50x50.png",group-title="「Twitch」星秀",菸水水
+https://live.lalifeier.eu.org/twitch/yinyenyen.m3u8?t=1772085775&key=eef01578e727d0832adf5e7441ae7109
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b2bd8f92-1930-4011-85fc-3ae9e9066e52-profile_image-50x50.png",group-title="「Twitch」星秀",hanarealono
+https://live.lalifeier.eu.org/twitch/hanarealono.m3u8?t=1772085775&key=c24bdb7f7e54788ec9a546ee48f6d879
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a76e6cbc-9c1f-4e69-928d-882ed4024c7d-profile_image-50x50.png",group-title="「Twitch」星秀",葉月尋
+https://live.lalifeier.eu.org/twitch/hazuki_hiro.m3u8?t=1772085775&key=5ce3648c25d9e8490100ef0a92a52a9d
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/925d2e67-137e-49ea-b9c6-495eb8fb25f3-profile_image-50x50.png",group-title="「Twitch」星秀",櫻花櫻花樹
+https://live.lalifeier.eu.org/twitch/sakulaovo.m3u8?t=1772085775&key=3f2af6908e2252249f832084cee4de75
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/490daf8f-9cc1-4620-876c-ee8e444466d2-profile_image-50x50.png",group-title="「Twitch」星秀",日弒
+https://live.lalifeier.eu.org/twitch/boristfe0000.m3u8?t=1772085775&key=fdf88007bf163f666e09b72c80110098
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/135dcfb7-86d5-4930-81c3-1820f36b3da9-profile_image-50x50.png",group-title="「Twitch」星秀",燦兒
+https://live.lalifeier.eu.org/twitch/lulu8434.m3u8?t=1772085775&key=363d54b3b7cc3e4d138a7f87078e1bf2
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/892c8057-bf01-4f10-ae0c-bf3e1b6a6184-profile_image-50x50.png",group-title="「Twitch」星秀",你隔壁的鷗君
+https://live.lalifeier.eu.org/twitch/laife.m3u8?t=1772085775&key=d0c26a01ddf384f405d4cdbaf6fbc946
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e4e14a1a-4fd2-47a5-bc30-ff8f345f014c-profile_image-50x50.png",group-title="「Twitch」星秀",趴象
+https://live.lalifeier.eu.org/twitch/flatelephant.m3u8?t=1772085775&key=d029a3c4ea51c36c834be59a18bc4e23
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6d62da8d-8c85-4f47-aece-4f72e6af4ca6-profile_image-50x50.png",group-title="「Twitch」星秀",三元翰
+https://live.lalifeier.eu.org/twitch/ohca20230102.m3u8?t=1772085775&key=905ed9ce92ceba61d28db0899d97a718
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fe0a03f0-1ae4-4393-9e6e-9f88f155b048-profile_image-50x50.jpeg",group-title="「Twitch」星秀",凝凝凝凝夜
+https://live.lalifeier.eu.org/twitch/yaya_oao_.m3u8?t=1772085775&key=484bbe266f14785cd1a3591ff464951d
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a61834520-profile_image-4bd0f167736a2dcc-50x50.jpeg",group-title="「Twitch」星秀",慶饅頭
+https://live.lalifeier.eu.org/twitch/a61834520.m3u8?t=1772085775&key=165773aa7e07dc42ec579f7e8675e5c1
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a4e2baf6-1065-4f81-b3c2-b23f70594d47-profile_image-50x50.png",group-title="「Twitch」星秀",艾蘇
+https://live.lalifeier.eu.org/twitch/npc_aisu.m3u8?t=1772085775&key=1301abbba8f91fe58892bf674c8bba6b
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/42ef7980-6877-43d8-9535-c90b173246b6-profile_image-50x50.png",group-title="「Twitch」星秀",捌柒肥鼠
+https://live.lalifeier.eu.org/twitch/rex4eng.m3u8?t=1772085775&key=444f66c33bc725be5c36d27ae99140a6
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dd5e760f-909b-4bef-b90b-2bea651b6e87-profile_image-50x50.png",group-title="「Twitch」星秀",森藍
+https://live.lalifeier.eu.org/twitch/sen_wilson.m3u8?t=1772085775&key=ff6c3a5c181ffcce8d9e8aad939537e5
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/876402ab-de9a-42f4-81a6-d5923657f5ba-profile_image-50x50.png",group-title="「Twitch」星秀",駿貓
+https://live.lalifeier.eu.org/twitch/fhd539486.m3u8?t=1772085775&key=d4d9656f3bb1d9b3548b910b0d3f74e9
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/syhdaniel-profile_image-7baadd8db5aafb8f-50x50.jpeg",group-title="「Twitch」星秀",深夜の王者
+https://live.lalifeier.eu.org/twitch/syhdaniel.m3u8?t=1772085775&key=929386fbf6fcf8adac6d8f4dc28eae99
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/23c0b70a-f21c-4035-bcc3-77d66cd16768-profile_image-50x50.png",group-title="「Twitch」星秀",stcrooper
+https://live.lalifeier.eu.org/twitch/stcrooper.m3u8?t=1772085775&key=4456f53d79f6c2e118c29de1f69d63fe
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-50x50.png",group-title="「Twitch」星秀",bbluish911
+https://live.lalifeier.eu.org/twitch/bbluish911.m3u8?t=1772085775&key=cc45fb78a926b9f3b4af73e3f2857776
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5f900026-3ec0-4325-ab6f-1843b006d322-profile_image-50x50.png",group-title="「Twitch」星秀",GoodLuckFish
+https://live.lalifeier.eu.org/twitch/goodluckfish.m3u8?t=1772085775&key=4d48317854dea7062e77d22e2687bed3
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a3be6ff5-32a1-4eca-82c6-1a1bde80fd29-profile_image-50x50.jpeg",group-title="「Twitch」星秀",雨隼國總統
+https://live.lalifeier.eu.org/twitch/wujunjunjun.m3u8?t=1772085775&key=df2740f1d88390303acbbfac2ec56415
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/80be7285-019c-438f-8985-c90f47ba6027-profile_image-50x50.png",group-title="「Twitch」星秀",只是沃爾
+https://live.lalifeier.eu.org/twitch/natus_wol.m3u8?t=1772085775&key=a6c157979ec27f8d087162ba4b49cf8c
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eeee1dce-8c1d-4d61-a2aa-474973b78c0a-profile_image-50x50.png",group-title="「Twitch」星秀",murongyan
+https://live.lalifeier.eu.org/twitch/murongyan.m3u8?t=1772085775&key=1e35ade4890f2d80f8b43b8848af3df5
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cc6afa47-9f77-45c3-99ff-3e5e3cb49a61-profile_image-50x50.png",group-title="「Twitch」星秀",居然平闆
+https://live.lalifeier.eu.org/twitch/homegggemoh.m3u8?t=1772085775&key=e388e6f770f0a43c0c8ef9852331493d
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f3cd41f9-f19d-43f7-a908-3aaf8b02e61c-profile_image-50x50.jpg",group-title="「Twitch」星秀",元氣
+https://live.lalifeier.eu.org/twitch/genki9.m3u8?t=1772085775&key=3808e4d8938cd8af99da1d18c9e37282
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3bb21f49-6ff3-4805-8971-f557d13d48a8-profile_image-50x50.png",group-title="「Twitch」星秀",鏡こなた
+https://live.lalifeier.eu.org/twitch/konata0411.m3u8?t=1772085775&key=ef61ba94c4c333f61a98310e7525a88b
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-50x50.png",group-title="「Twitch」星秀",木魚機器人
+https://live.lalifeier.eu.org/twitch/timberobotfish.m3u8?t=1772085775&key=fb2260d58eea3783e04bc27a6038677c
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a04be061-2c7d-441f-ad4f-5f8257c8f50e-profile_image-50x50.png",group-title="「Twitch」星秀",智隆同學
+https://live.lalifeier.eu.org/twitch/zhilongggggg.m3u8?t=1772085775&key=d0f96833e726ef14dcb3178b4f338d00
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7d05e0d6-9913-4fd7-a19a-a12871dd501c-profile_image-50x50.jpeg",group-title="「Twitch」星秀",戚戚儒家
+https://live.lalifeier.eu.org/twitch/data0708.m3u8?t=1772085775&key=5d74769df9f73e907e0d59149d64c873
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bf744113-ae95-43a9-b43e-31ba9ac0d40d-profile_image-50x50.jpeg",group-title="「Twitch」星秀",NoTsukiTw
+https://live.lalifeier.eu.org/twitch/notsukitw.m3u8?t=1772085775&key=684efa0070ba0e4712d1f9eb31182c51
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a54e2277-2284-4b9a-83d1-384653205488-profile_image-50x50.jpeg",group-title="「Twitch」星秀",冬天的葉子
+https://live.lalifeier.eu.org/twitch/ray_winter_leaf.m3u8?t=1772085775&key=6021129f5f8e0788ad91ad113e218c13
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0c584430-c111-4118-8ed8-01414ce25a97-profile_image-50x50.png",group-title="「Twitch」星秀",奇米_
+https://live.lalifeier.eu.org/twitch/chimi0817.m3u8?t=1772085775&key=607958bc2de4eb9d30f035fe016d7d34
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/04ec309f-1d55-4129-97d9-f85eb8d3a02c-profile_image-50x50.jpeg",group-title="「Twitch」星秀",獨行
+https://live.lalifeier.eu.org/twitch/mavericksgamingtw.m3u8?t=1772085775&key=6608b47349326380e8ae40a1129a4615
 
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-</head>
-<body>
-    <div id="cf-wrapper">
-        <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-        <div id="cf-error-details" class="cf-error-details-wrapper">
-            <div class="cf-wrapper cf-header cf-error-overview">
-                <h1>
-                    <span class="cf-error-type" data-translate="error">Error</span>
-                    <span class="cf-error-code">1101</span>
-                    <small class="heading-ray-id">Ray ID: 9d3cdaccb843ae00 &bull; 2026-02-26 04:56:16 UTC</small>
-                </h1>
-                <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
-            </div><!-- /.header -->
-    
-            <section></section><!-- spacer -->
-    
-            <div class="cf-section cf-wrapper">
-                <div class="cf-columns two">
-                    <div class="cf-column">
-                        <h2 data-translate="what_happened">What happened?</h2>
-                            <p>You've requested a page on a website (live.lalifeier.eu.org) that is on the <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_100x" target="_blank">Cloudflare</a> network. An unknown error occurred while rendering the page.</p>
-                    </div>
-                    
-                    <div class="cf-column">
-                        <h2 data-translate="what_can_i_do">What can I do?</h2>
-                            <p><strong>If you are the owner of this website:</strong><br />refer to <a href="https://developers.cloudflare.com/workers/observability/errors/" target="_blank">Workers - Errors and Exceptions</a> and check Workers Logs for live.lalifeier.eu.org.</p>
-                    </div>
-                    
-                </div>
-            </div><!-- /.section -->
-    
-            <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-    <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d3cdaccb843ae00</strong></span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-        Your IP:
-        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.225.25.52</span>
-        <span class="cf-footer-separator sm:hidden">&bull;</span>
-      </span>
-      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-      
-    </p>
-    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-  </div><!-- /.error-footer -->
-
-        </div><!-- /#cf-error-details -->
-    </div><!-- /#cf-wrapper -->
-
-     <script>
-    window._cf_translation = {};
-    
-    
-  </script> 
-</body>
-</html>
